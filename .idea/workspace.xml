@@ -18,9 +18,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="164" column="42" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
+            <state relative-caret-position="143">
+              <caret line="594" column="55" selection-start-line="594" selection-start-column="55" selection-end-line="594" selection-end-column="55" />
               <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#section#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#12222#14548#0" />
@@ -111,12 +114,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554907693505</updated>
       <workItem from="1554907694693" duration="72000" />
-      <workItem from="1554907792117" duration="930000" />
+      <workItem from="1554907792117" duration="1144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1002000" />
+    <option name="totallyTimeSpent" value="1216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -167,9 +170,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="164" column="42" selection-start-line="164" selection-start-column="42" selection-end-line="164" selection-end-column="42" />
+        <state relative-caret-position="143">
+          <caret line="594" column="55" selection-start-line="594" selection-start-column="55" selection-end-line="594" selection-end-column="55" />
           <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#section#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="e#12222#14548#0" />
