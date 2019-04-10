@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2367">
-              <caret line="526" column="37" selection-start-line="526" selection-start-column="37" selection-end-line="526" selection-end-column="37" />
+            <state relative-caret-position="-211">
+              <caret line="279" column="116" selection-start-line="279" selection-start-column="110" selection-end-line="279" selection-end-column="116" />
             </state>
           </provider>
         </entry>
@@ -29,6 +27,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Projects</find>
+      <find>beetle</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,6 +56,24 @@
             <path>
               <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="gallery" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -94,12 +111,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554907693505</updated>
       <workItem from="1554907694693" duration="72000" />
-      <workItem from="1554907792117" duration="302000" />
+      <workItem from="1554907792117" duration="522000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="374000" />
+    <option name="totallyTimeSpent" value="594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -112,7 +129,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121916845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -145,8 +161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2367">
-          <caret line="526" column="37" selection-start-line="526" selection-start-column="37" selection-end-line="526" selection-end-column="37" />
+        <state relative-caret-position="-211">
+          <caret line="279" column="116" selection-start-line="279" selection-start-column="110" selection-end-line="279" selection-end-column="116" />
         </state>
       </provider>
     </entry>
