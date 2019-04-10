@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="186" column="65" selection-start-line="186" selection-start-column="65" selection-end-line="186" selection-end-column="65" />
+            <state relative-caret-position="42">
+              <caret line="611" column="27" selection-start-line="611" selection-start-column="27" selection-end-line="611" selection-end-column="27" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -39,6 +39,7 @@
       <find>Projects</find>
       <find>beetle</find>
       <find>courses</find>
+      <find>table</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -120,12 +121,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554907693505</updated>
       <workItem from="1554907694693" duration="72000" />
-      <workItem from="1554907792117" duration="2725000" />
+      <workItem from="1554907792117" duration="4376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2797000" />
+    <option name="totallyTimeSpent" value="4448000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="186" column="65" selection-start-line="186" selection-start-column="65" selection-end-line="186" selection-end-column="65" />
+        <state relative-caret-position="42">
+          <caret line="611" column="27" selection-start-line="611" selection-start-column="27" selection-end-line="611" selection-end-column="27" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
