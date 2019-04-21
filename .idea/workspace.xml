@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="692" selection-start-line="692" selection-end-line="692" />
+            <state relative-caret-position="178">
+              <caret line="524" column="14" lean-forward="true" selection-start-line="524" selection-start-column="14" selection-end-line="524" selection-end-column="14" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -131,12 +129,12 @@
       <workItem from="1554907792117" duration="4376000" />
       <workItem from="1555096753109" duration="247000" />
       <workItem from="1555097295601" duration="3798000" />
-      <workItem from="1555654368510" duration="1147000" />
+      <workItem from="1555654368510" duration="1190000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9640000" />
+    <option name="totallyTimeSpent" value="9683000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="692" selection-start-line="692" selection-end-line="692" />
+        <state relative-caret-position="178">
+          <caret line="524" column="14" lean-forward="true" selection-start-line="524" selection-start-column="14" selection-end-line="524" selection-end-column="14" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
