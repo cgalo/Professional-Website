@@ -18,11 +18,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="279" column="18" selection-start-line="279" selection-start-column="18" selection-end-line="279" selection-end-column="18" />
+            <state relative-caret-position="463">
+              <caret line="692" selection-start-line="692" selection-end-line="692" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -125,12 +131,12 @@
       <workItem from="1554907792117" duration="4376000" />
       <workItem from="1555096753109" duration="247000" />
       <workItem from="1555097295601" duration="3798000" />
-      <workItem from="1555654368510" duration="271000" />
+      <workItem from="1555654368510" duration="1147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8764000" />
+    <option name="totallyTimeSpent" value="9640000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -188,11 +194,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="279" column="18" selection-start-line="279" selection-start-column="18" selection-end-line="279" selection-end-column="18" />
+        <state relative-caret-position="463">
+          <caret line="692" selection-start-line="692" selection-end-line="692" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
