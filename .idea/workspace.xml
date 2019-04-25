@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,15 +16,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="644" column="16" selection-start-line="644" selection-start-column="16" selection-end-line="644" selection-end-column="16" />
+            <state relative-caret-position="487">
+              <caret line="291" column="22" lean-forward="true" selection-start-line="291" selection-start-column="22" selection-end-line="291" selection-end-column="22" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#4;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -130,12 +128,12 @@
       <workItem from="1555096753109" duration="247000" />
       <workItem from="1555097295601" duration="3798000" />
       <workItem from="1555654368510" duration="1190000" />
-      <workItem from="1555993290981" duration="193000" />
+      <workItem from="1555993290981" duration="509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9876000" />
+    <option name="totallyTimeSpent" value="10192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +146,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.121916845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -193,15 +190,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="644" column="16" selection-start-line="644" selection-start-column="16" selection-end-line="644" selection-end-column="16" />
+        <state relative-caret-position="487">
+          <caret line="291" column="22" lean-forward="true" selection-start-line="291" selection-start-column="22" selection-end-line="291" selection-end-column="22" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#4;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
