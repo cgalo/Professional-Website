@@ -19,12 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="493" column="28" selection-start-line="493" selection-start-column="28" selection-end-line="493" selection-end-column="28" />
+            <state relative-caret-position="-349">
+              <caret line="373" column="42" selection-start-line="373" selection-start-column="42" selection-end-line="373" selection-end-column="42" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -44,6 +43,7 @@
       <find>drop</find>
       <find>Projects</find>
       <find>Curren</find>
+      <find>Shrink</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,9 +57,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="715" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="538" />
+    <option name="y" value="-776" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -118,7 +120,8 @@
       <workItem from="1555097295601" duration="3798000" />
       <workItem from="1555654368510" duration="1190000" />
       <workItem from="1555993290981" duration="509000" />
-      <workItem from="1556212067857" duration="2136000" />
+      <workItem from="1556212067857" duration="5297000" />
+      <workItem from="1556290597027" duration="241000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -134,11 +137,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556212858468</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Trying to center Economics table">
+      <created>1556218716773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556218716773</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table">
+      <created>1556221774413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556221774413</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12328000" />
+    <option name="totallyTimeSpent" value="15730000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -150,13 +167,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
+    <frame x="538" y="-776" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.121916845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32996207" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -168,6 +184,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32996207" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -178,7 +195,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Edited Skills list:&#10; - Added Git Version control as a skill" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited Skills list:&#10; - Added Git Version control as a skill" />
+    <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Trying to center Economics table" />
+    <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -201,12 +220,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="493" column="28" selection-start-line="493" selection-start-column="28" selection-end-line="493" selection-end-column="28" />
+        <state relative-caret-position="-349">
+          <caret line="373" column="42" selection-start-line="373" selection-start-column="42" selection-end-line="373" selection-end-column="42" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#2;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
           </folding>
