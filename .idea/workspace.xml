@@ -19,10 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="52" column="86" selection-start-line="52" selection-start-column="86" selection-end-line="52" selection-end-column="86" />
+            <state relative-caret-position="493">
+              <caret line="239" column="4" selection-start-line="239" selection-start-column="4" selection-end-line="239" selection-end-column="4" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -57,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="538" />
     <option name="y" value="-776" />
     <option name="width" value="1382" />
@@ -122,7 +123,7 @@
       <workItem from="1555993290981" duration="509000" />
       <workItem from="1556212067857" duration="5297000" />
       <workItem from="1556290597027" duration="241000" />
-      <workItem from="1556303960603" duration="553000" />
+      <workItem from="1556303960603" duration="2013000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -159,11 +160,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556304419615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Added &quot;Certificates&quot; to header of index file">
+      <created>1556304544249</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1556304544249</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Added &quot;Certificates&quot; to header of index file">
+      <created>1556304594795</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556304594795</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Created and moved certificate section &#10;    -- Linked section to header button">
+      <created>1556305331417</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556305331417</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16283000" />
+    <option name="totallyTimeSpent" value="17743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,7 +197,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="-776" width="1382" height="784" extended-state="6" />
+    <frame x="538" y="-776" width="1382" height="784" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.121916845" />
@@ -206,7 +228,9 @@
     <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Trying to center Economics table" />
     <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table" />
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section" />
+    <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Added &quot;Certificates&quot; to header of index file" />
+    <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Created and moved certificate section &#10;    -- Linked section to header button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Created and moved certificate section &#10;    -- Linked section to header button" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -229,10 +253,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="52" column="86" selection-start-line="52" selection-start-column="86" selection-end-line="52" selection-end-column="86" />
+        <state relative-caret-position="493">
+          <caret line="239" column="4" selection-start-line="239" selection-start-column="4" selection-end-line="239" selection-end-column="4" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
