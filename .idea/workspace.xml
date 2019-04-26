@@ -19,13 +19,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-349">
-              <caret line="373" column="42" selection-start-line="373" selection-start-column="42" selection-end-line="373" selection-end-column="42" />
+            <state relative-caret-position="192">
+              <caret line="52" column="86" selection-start-line="52" selection-start-column="86" selection-end-line="52" selection-end-column="86" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -122,6 +122,7 @@
       <workItem from="1555993290981" duration="509000" />
       <workItem from="1556212067857" duration="5297000" />
       <workItem from="1556290597027" duration="241000" />
+      <workItem from="1556303960603" duration="553000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -151,11 +152,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556221774413</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section">
+      <created>1556304419615</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556304419615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15730000" />
+    <option name="totallyTimeSpent" value="16283000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,7 +189,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32996207" />
@@ -197,7 +205,8 @@
     <MESSAGE value="Edited Skills list:&#10; - Added Git Version control as a skill" />
     <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Trying to center Economics table" />
     <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table" />
+    <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -220,13 +229,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-349">
-          <caret line="373" column="42" selection-start-line="373" selection-start-column="42" selection-end-line="373" selection-end-column="42" />
+        <state relative-caret-position="192">
+          <caret line="52" column="86" selection-start-line="52" selection-start-column="86" selection-end-line="52" selection-end-column="86" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
