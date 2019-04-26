@@ -19,11 +19,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="325" column="41" selection-start-line="325" selection-start-column="41" selection-end-line="325" selection-end-column="41" />
+            <state relative-caret-position="511">
+              <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -123,7 +123,7 @@
       <workItem from="1555993290981" duration="509000" />
       <workItem from="1556212067857" duration="5297000" />
       <workItem from="1556290597027" duration="241000" />
-      <workItem from="1556303960603" duration="3076000" />
+      <workItem from="1556303960603" duration="6225000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -202,11 +202,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556306287584</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file">
+      <created>1556307220828</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556307220828</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18806000" />
+    <option name="totallyTimeSpent" value="21955000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,7 +225,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="-776" width="1382" height="784" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.121916845" />
@@ -254,7 +261,8 @@
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Debugging section issues between Certificates and Work" />
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged unclosed home section" />
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged certificate section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged certificate section" />
+    <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -277,11 +285,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="325" column="41" selection-start-line="325" selection-start-column="41" selection-end-line="325" selection-end-column="41" />
+        <state relative-caret-position="511">
+          <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
