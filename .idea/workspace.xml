@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatars/user-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatars/user-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatars/user-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatars/user-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avatars/user-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +24,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="629" column="16" selection-start-line="629" selection-start-column="16" selection-end-line="629" selection-end-column="16" />
+            <state relative-caret-position="525">
+              <caret line="270" column="22" selection-start-line="270" selection-start-column="22" selection-end-line="270" selection-end-column="22" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="581">
+              <caret line="583" column="38" lean-forward="true" selection-start-line="535" selection-start-column="4" selection-end-line="583" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -116,12 +131,6 @@
             <path>
               <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="avatars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -186,7 +195,7 @@
       <workItem from="1556290597027" duration="241000" />
       <workItem from="1556303960603" duration="6225000" />
       <workItem from="1556587261216" duration="2274000" />
-      <workItem from="1556652199356" duration="616000" />
+      <workItem from="1556652199356" duration="2051000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -349,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1556643338378</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated index.html&#10;--Took out parts of Contact section">
+      <created>1556654803299</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1556654803299</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31724000" />
+    <option name="totallyTimeSpent" value="33159000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -432,7 +448,8 @@
     <MESSAGE value="Updated index.html&#10;-- Added end-of comment section blocks&#10;-- Changed Skills section:&#10;   - Changed from &quot;I've got some skills&quot; --&gt; &quot;Acquired skills&quot;" />
     <MESSAGE value="Updated index.html&#10;-- Changed Courses section:&#10;   - Subheader of each table" />
     <MESSAGE value="Updated index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html" />
+    <MESSAGE value="Updated index.html&#10;--Took out parts of Contact section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;--Took out parts of Contact section" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -461,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="771" column="68" selection-start-line="771" selection-start-column="64" selection-end-line="771" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/styles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -493,10 +503,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="583" column="38" lean-forward="true" selection-start-line="535" selection-start-column="4" selection-end-line="583" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="629" column="16" selection-start-line="629" selection-start-column="16" selection-end-line="629" selection-end-column="16" />
+        <state relative-caret-position="525">
+          <caret line="270" column="22" selection-start-line="270" selection-start-column="22" selection-end-line="270" selection-end-column="22" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
