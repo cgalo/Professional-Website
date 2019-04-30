@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="346" column="4" lean-forward="true" selection-start-line="346" selection-start-column="4" selection-end-line="346" selection-end-column="4" />
+            <state relative-caret-position="34">
+              <caret line="343" selection-start-line="343" selection-end-line="343" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -28,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+            <state relative-caret-position="2560">
+              <caret line="908" column="18" lean-forward="true" selection-start-line="908" selection-start-column="18" selection-end-line="908" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -290,11 +292,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556637877326</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Deleted Test.html">
+      <created>1556639417167</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1556639417167</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Deleted commented section for &quot;What People Say&quot;">
+      <created>1556639554537</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1556639554537</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26171000" />
+    <option name="totallyTimeSpent" value="26450000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -348,7 +364,9 @@
     <MESSAGE value="Updated index.html&#10;--Edited arrow button from Projects completed in stats section" />
     <MESSAGE value="Updated index.html&#10;--Testing php script for Contact email form" />
     <MESSAGE value="Created a test page to copy layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created a test page to copy layout" />
+    <MESSAGE value="Deleted Test.html" />
+    <MESSAGE value="Deleted commented section for &quot;What People Say&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted commented section for &quot;What People Say&quot;" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -370,16 +388,6 @@
         <state relative-caret-position="-9286" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="346" column="4" lean-forward="true" selection-start-line="346" selection-start-column="4" selection-end-line="346" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4">
@@ -399,10 +407,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="343" selection-start-line="343" selection-end-line="343" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        <state relative-caret-position="2560">
+          <caret line="908" column="18" lean-forward="true" selection-start-line="908" selection-start-column="18" selection-end-line="908" selection-end-column="18" />
         </state>
       </provider>
     </entry>
