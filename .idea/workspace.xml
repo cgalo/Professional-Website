@@ -19,14 +19,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
+            <state relative-caret-position="429">
+              <caret line="594" column="31" selection-start-line="594" selection-start-column="31" selection-end-line="594" selection-end-column="31" />
               <folding>
-                <element signature="n#head#0;n#html#0;n#!!top" />
-                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -124,6 +122,7 @@
       <workItem from="1556212067857" duration="5297000" />
       <workItem from="1556290597027" duration="241000" />
       <workItem from="1556303960603" duration="6225000" />
+      <workItem from="1556587261216" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -209,11 +208,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556307220828</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Recreated index.html before adding certificates">
+      <created>1556587346601</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556587346601</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Recreated index.html before adding certificates&#10;-- Added comments block throughout and edited &lt;p&gt;&lt;/p&gt; throughout">
+      <created>1556588319881</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1556588319881</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21955000" />
+    <option name="totallyTimeSpent" value="23215000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,7 +238,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.121916845" />
@@ -262,7 +275,9 @@
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged unclosed home section" />
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged certificate section" />
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file" />
+    <MESSAGE value="Recreated index.html before adding certificates" />
+    <MESSAGE value="Recreated index.html before adding certificates&#10;-- Added comments block throughout and edited &lt;p&gt;&lt;/p&gt; throughout" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recreated index.html before adding certificates&#10;-- Added comments block throughout and edited &lt;p&gt;&lt;/p&gt; throughout" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -285,14 +300,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="297" column="32" selection-start-line="297" selection-start-column="32" selection-end-line="297" selection-end-column="32" />
+        <state relative-caret-position="429">
+          <caret line="594" column="31" selection-start-line="594" selection-start-column="31" selection-end-line="594" selection-end-column="31" />
           <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
