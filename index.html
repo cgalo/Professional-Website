@@ -38,551 +38,613 @@
 
 <body id="top">
 
-    <!-- header
-    ================================================== -->
-    <header class="s-header">
+<!-- header
+================================================== -->
+<header class="s-header">
 
-        <div class="header-logo">
-            <a class="site-logo" href="index.html"><img src="images/logo.png" alt="Homepage"></a>
+    <div class="header-logo">
+        <a class="site-logo" href="index.html"><img src="images/logo.png" alt="Homepage"></a>
+    </div>
+
+    <nav class="header-nav-wrap">
+        <ul class="header-nav">
+            <li class="current"><a class="smoothscroll"  href="#home" title="home">Home</a></li>
+            <li><a class="smoothscroll"  href="#about"      title="about">About</a></li>
+            <li><a class="smoothscroll"  href="#experience" title="Experience">Experience</a></li>
+            <li><a class="smoothscroll"  href="#works"      title="works">Projects</a></li>
+            <li><a class="smoothscroll"  href="#courses"    title="courses">Courses</a></li>
+            <li><a class="smoothscroll"  href="#contact"    title="contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <a class="header-menu-toggle" href="#0"><span>Menu</span></a>
+
+</header> <!-- end s-header -->
+
+
+<!-- home
+================================================== -->
+<section id="home" class="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg"
+         data-natural-width=3000 data-natural-height=2000 data-position-y=center>
+
+    <div class="overlay"></div>
+    <div class="shadow-overlay"></div>
+
+    <div class="home-content">
+
+        <div class="row home-content__main">
+
+            <h3>Hello There</h3>
+
+            <h1>
+                I am Carlos Galo. <br>
+                CSE major<br>
+                based in UToledo.
+            </h1>
+
+            <div class="home-content__buttons">
+                <a href="#works" class="smoothscroll btn btn--stroke">
+                    Latest Projects
+                </a>
+                <a href="#about" class="smoothscroll btn btn--stroke">
+                    More About Me
+                </a>
+            </div>
+
+            <div class="home-content__scroll">
+                <a href="#about" class="scroll-link smoothscroll">
+                    <span>Scroll Down</span>
+                </a>
+            </div>
+
         </div>
 
-        <nav class="header-nav-wrap">
-            <ul class="header-nav">
-                <li class="current"><a class="smoothscroll"  href="#home" title="home">Home</a></li>
-                <li><a class="smoothscroll"  href="#about"          title="about">About</a></li><!--
-                <li><a class="smoothscroll"  href="#experience"     title="Experience">Experience</a></li> -->
-                <li><a class="smoothscroll"  href="#works"          title="works">Projects</a></li>
-                <li><a class="smoothscroll"  href="#courses"        title="courses">Courses</a></li>
-                <li><a class="smoothscroll"  href="#contact"        title="contact">Contact</a></li>
-            </ul>
-        </nav>
+    </div> <!-- end home-content -->
 
-        <a class="header-menu-toggle" href="#0"><span>Menu</span></a>
+    <ul class="home-social">
+        <li>
+            <a href="https://www.github.com/cgalo"><i class="im im-github" aria-hidden="true"></i>
+                <span>GitHub</span></a>
 
-    </header> <!-- end s-header -->
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/in/carlos-galo/"><i class="im im-linkedin" aria-hidden="true"></i>
+                <span>LinkedIn</span></a>
+        </li>
+        <li>
+            <a href="https://www.facebook.com/c.galo21"><i class="im im-facebook" aria-hidden="true"></i>
+                <span>Facebook</span></a>
+        </li>
+    </ul>
+    <!-- end home-social -->
 
-
-   <!-- home
-   ================================================== -->
-   <section id="home" class="s-home page-hero target-section" data-parallax="scroll" data-image-src="images/hero-bg.jpg" data-natural-width=3000 data-natural-height=2000 data-position-y=center>
-
-        <div class="overlay"></div>
-        <div class="shadow-overlay"></div>
-
-        <div class="home-content">
-
-            <div class="row home-content__main">
-
-                <h3>Hello There</h3>
-
-                <h1>
-                    I am Carlos Galo. <br>
-                    CSE major<br>
-                    based in UToledo.
-                </h1>
-
-                <div class="home-content__buttons">
-                    <a href="#works" class="smoothscroll btn btn--stroke">
-                        Latest Projects
-                    </a>
-                    <a href="#about" class="smoothscroll btn btn--stroke">
-                        More About Me
-                    </a>
-                </div>
-
-                <div class="home-content__scroll">
-                    <a href="#about" class="scroll-link smoothscroll">
-                        <span>Scroll Down</span>
-                    </a>
-                </div>
-
-            </div>
-
-        </div> <!-- end home-content -->
-
-        <ul class="home-social">
-            <li>
-                <a href="https://www.github.com/cgalo"><i class="im im-github" aria-hidden="true"></i><span>GitHub</span></a>
-                
-            </li>
-            <li>
-                <a href="https://www.linkedin.com/in/carlos-galo/"><i class="im im-linkedin" aria-hidden="true"></i><span>LinkedIn</span></a>
-            </li>
-            <li>
-                <a href="https://www.facebook.com/c.galo21"><i class="im im-facebook" aria-hidden="true"></i><span>Facebook</span></a>
-            </li>
-        </ul> 
-        <!-- end home-social -->
-
-   </section> <!-- end s-home -->
+</section> <!-- end s-home -->
 
 
-    <!--About Me & Skills-->>
-    <section id="about" class="s-about target-section">
-        
-        <div class="row narrow section-intro has-bottom-sep">
-            <div class="col-full text-center">
-                <h3>About</h3>
-                <h1>More About Me</h1>
-                <p class="lead">
-                    <!--I’m a current student at the University of Toledo, majoring in computer science & engineering with a minor in economics. I am seeking  for opportunities to expand my knowledge in efficient coding algorithms and applications, as well as applying mathematical and technical experience on more projects.-->
-                    I am looking to apply programming, mathematical and technical skills as an intern in the field of computer science.
-                </p>
-            </div>
+<!-- About Me Section -->
+<section id="about" class="s-about target-section">
+
+    <div class="row narrow section-intro has-bottom-sep">
+        <div class="col-full text-center">
+            <h3>About</h3>
+            <h1>More About Me</h1>
+            <p class="lead">
+                <!--I’m a current student at the University of Toledo, majoring in computer science & engineering with
+                a minor in economics. I am seeking  for opportunities to expand my knowledge in efficient coding
+                algorithms and applications, as well as applying mathematical and technical experience on more projects.
+                -->
+                I am looking to apply programming, mathematical and technical skills as an intern in the field of
+                computer science.
+            </p>
+        </div>
+    </div>
+
+    <div class="row about-content">
+
+        <div class="col-six tab-full left">
+            <h3>Hola!</h3>
+            <p>
+                I started my undergraduate at North Park University, where I was a student-athlete majoring in Physics
+                & Engineering, back in 2015. I was part of the cross country team, as well as the track & field team.
+                It was at North Park where I fell in love with coding and econmics and decided to transfer to the
+                University of Toledo to pursue my passion for computer science. I started at UToledo back in Spring 2017
+                and my expected graduation date is December 2020.
+            </p>
+            <p>
+                Since then I have been able to be part of different groups that have helped me develop as a person and
+                as professional. Right now I am part of the business fraternity, Pi Sigma Epsilon, where I've had the
+                honor to submerge myself with business skills, create a bigger network and work on projects to keep
+                improving the fraternity and its members. Then there is ACM, Association for Computer Machinery, where
+                I've learned many technical skills. Some of these skills include web development, working as a coding
+                team through git and agile.
+
+            </p>
+            <p>
+                Presently I'm an intern at a Associated Spring Raymond as an Information Technology Intern, located in
+                Maumee OH. Since January I've worked with troubleshooting hardware, software and networking issues.
+                I've created powershell and batch scripts to automize imaging process. Also created management tracking
+                system for deployed assets' information, CISCO networking hardware, and static IPs on the network.
+
+            </p>
+            <p>
+                I am currently on the hunt for new opportunities to keep learning and expanding my thurst for knowledge,
+                with the goal to become a software developer or a cybersecurity professional after graduation.
+            </p>
         </div>
 
-        <div class="row about-content">
+        <div class="col-six tab-full right">
+            <h3>I've Got Some skills.</h3>
 
-            <div class="col-six tab-full left">
-                <h3>Hola!</h3>
-                <p>
-                    I started my undergraduate at North Park University, where I was a student-athlete majoring in Physics & Engineering, back in 2015. I was part of the cross country team, as well as the track & field team. It was at North Park where I fell in love with coding and econmics and decided to transfer to the University of Toledo to pursue my passion for computer science. I started at UToledo back in Spring 2017 and my expected graduation date is December 2020. 
-                </p>
-                <p>
-                     Since then I have been able to be part of different groups that have helped me develop as a person and as professional. Right now I am part of the business fraternity, Pi Sigma Epsilon, where I've had the honor to submerge myself with business skills, create a bigger network and work on projects to keep improving the fraternity and its members. Then there is ACM, Association for Computer Machinery, where I've learned many technical skills. Some of these skills include web development, working as a coding team through git and agile. 
- 
-                </p>
-                <p>
-                    Presently I'm an intern at a Associated Spring Raymond as an Information Technology Intern, located in Maumee OH. Since January I've worked with troubleshooting hardware, software and networking issues. I've created powershell and batch scripts to automize imaging process. Also created management tracking system for deployed assets' information, CISCO networking hardware, and static IPs on the network. 
-
-                </p>
-                <p>
-                    I am currently on the hunt for new opportunities to keep learning and expanding my thurst for knowledge, with the goal to become a software developer or a cybersecurity professional after graduation.
-                </p>
-            </div>
-
-            <!--Skills list column -->
-            <div class="col-six tab-full right">
-                <h3>I've Got Some skills.</h3>
-
-                <ul class="skill-bars">
-                    <li>
-                        <strong>Java</strong>
-                    </li>
-                    <li> <!-- 
+            <ul class="skill-bars">
+                <li>
+                    <strong>Java</strong>
+                </li>
+                <li> <!--
                     <div class="progress percent60"><span>85%</span></div>-->
-                        <strong>C++</strong>
-                    </li>
-                    <li>
-                        <strong>Python</strong>
-                    </li>
-                    <li>
-                        <strong>HTML</strong>
-                    </li>
-                    <li>
-                        <strong>Git Version Control</strong>
-                    </li>
-                    <li>
-                        <strong>Powershell</strong>
-                    </li>
-                    <li>
-                        <strong>Batch Scripting</strong>
-                    </li>
-                    <li>
-                        <strong>StyleCAD</strong>
-                    </li>
-                    <li>
-                        <strong>Networking</strong>
-                    </li>
-                    <li>
-                        <strong>Troubleshooting</strong>
-                    </li>
-                </ul>
-            </div>
-            <!--End of Skills section-->
-        </div> <!-- End about-content -->
+                    <strong>C++</strong>
+                </li>
+                <li>
+                    <strong>Python</strong>
+                </li>
+                <li>
+                    <strong>HTML</strong>
+                </li>
+                <li>
+                    <strong>Git Version Control</strong>
+                </li>
+                <li>
+                    <strong>Powershell</strong>
+                </li>
+                <li>
+                    <strong>Batch Scripting</strong>
+                </li>
+                <li>
+                    <strong>StyleCAD</strong>
+                </li>
+                <li>
+                    <strong>Networking</strong>
+                </li>
+                <li>
+                    <strong>Troubleshooting</strong>
+                </li>
+            </ul>
+        </div>
 
-        <div class="row about-content about-content--buttons">
+    </div> <!-- end about-content -->
 
-            <div class="col-six tab-full left">
-                <a href="https://github.com/cgalo/cgalo.github.io/raw/master/docs/Resume.pdf" class="btn btn--primary full-width">Download My Resume</a>
-            </div>
-            <div class="col-six tab-full right">
-                <a href="#contact" class="btn full-width">Hire Me</a>
-            </div>
-        </div> <!-- end about-content buttons -->
+    <!--Buttons below About section-->
+    <div class="row about-content about-content--buttons">
+        <!--Download Resume button-->
+        <div class="col-six tab-full left">
+            <a href="https://github.com/cgalo/cgalo.github.io/raw/master/docs/Resume.pdf"
+               class="btn btn--primary full-width">Download My Resume</a>
+        </div>
+        <div class="col-six tab-full right">
+            <a href="#contact" class="btn full-width">Hire Me</a>
+        </div>
 
-        <!--Certificates-->
-        <div class="s-testimonials">
-            <div class="overlay"></div>
+    </div> <!-- end about-content buttons -->
 
-            <div class="row testimonials-header">
-                <div class="col-full">
-                    <h1 class="h02">Certificates</h1>
-                </div>
-            </div>
-            <!--Powershell Certificate-->
-            <div class="row testimonials">
-                <div class="col-full testimonials__slider"> <!--Start of testimonies and scroller-->
-                    <div class="testimonials__slide">
-                        <!--<img src="images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar"> -->
-                        <p>
-                            This course is designed to provide you with a solid foundation of Windows PowerShell 5.1.
-                            We will start with the basics of PowerShell 5.1 and end with you writing your own powerful
-                            automation scripts.
-                        </p>
-                        <div class="testimonials__author h06">
-                            UDemy
-                            <span>Time (M/D/Y)</span>
-                        </div>
+    <section id = "experience" div class="row about-content about-content--timeline">
+
+        <div class="col-full text-center">
+            <h3>My Work Experience.</h3>
+        </div>
+
+        <div class="col-six tab-full left">
+            <div class="timeline">
+
+                <!--ASR Internship-->
+                <div class="timeline__block">
+                    <div class="timeline__bullet"></div>
+                    <div class="timeline__header">
+                        <p class="timeline__timeframe">January 2019 - Present</p>
+                        <h3>Associated Spring Raymond</h3>
+                        <h5>Information Technology Intern</h5>
                     </div>
-                </div>
-            </div>
-        </div> <!--End of Certificates-->
+                    <div class="timeline__desc">
+                        <p>
+                            Setup, re-image/reload & maintain PCs, Windows networks, file servers, network cabling, &
+                            other related equipment, devices & systems. Develop, test, and deploy scripts to automatize
+                            computer reimaging process. Design and costume image files through Windows System Image
+                            Manager. Maintain and collect information on deployed CISCO switches through SSH/Telnet
+                            using PuTTY. created management tracking system for deployed assets' information, CISCO
+                            networking hardware, and static IPs on the network.
+                        </p>
+                    </div>
+                </div> <!-- End of ASR IT Internship -->
 
+                <!--UTMC PC Lan Support-->
+                <div class="timeline__block">
+                    <div class="timeline__bullet"></div>
+                    <div class="timeline__header">
+                        <p class="timeline__timeframe">September 2017 - January 2019</p>
+                        <h3>University of Toledo Medical Center</h3>
+                        <h5>PC Lan Support Technician</h5>
+                    </div>
+                    <div class="timeline__desc">
+                        <p>
+                            Maintained support for the computer equipment on clinical and non-clinical facilities
+                            throughout Medical Center. Worked on a team to provide technical support through projects
+                            and ticketing system. Assisted and closed over 500 tickets relating hardware, software,
+                            malware, such as trojans, and viruses. Maintained computer security compliance with NexPose
+                            and Imprivata. Managed over 4000 assets through Active Directory and kept detailed and
+                            updated assets' information.
+                        </p>
+                    </div>
+                </div> <!-- End of UTMC tech -->
 
-        <!--Start of Work Experience-->
-        <div class="row about-content about-content--timeline">
-            <div class="col-full text-center">
-                <h3>My Work Experience.</h3>
-            </div>
+            </div> <!-- end timeline -->
+        </div> <!-- end left -->
 
-            <div class="col-six tab-full left">
-                <div class="timeline">
+        <div class="col-six tab-full right">
+            <div class="timeline">
 
-                    <!--ASR IT Intern -->
-                    <div class="timeline__block">
-                        <div class="timeline__bullet"></div>
-                        <div class="timeline__header">
-                            <p class="timeline__timeframe">January 2019 - Present</p>
-                            <h3>Associated Spring Raymond</h3>
-                            <h5>Informaation Technology Intern</h5>
-                        </div>
-                        <div class="timeline__desc">
-                            <p>
-                                Setup, re-image/reload & maintain PCs, Windows networks, file servers, network cabling,
-                                & other related equipment, devices & systems. Develop, test, and deploy scripts to
-                                automatize computer reimaging process. Design and costume image files through Windows
-                                System Image Manager. Maintain and collect information on deployed CISCO switches
-                                through SSH/Telnet using PuTTY. created management tracking system for deployed assets'
-                                information, CISCO networking hardware, and static IPs on the network.
-                            </p>
-                        </div>
-                    </div> <!-- end timeline__block -->
+                <!-- Southern Glove Inc internship -->
+                <div class="timeline__block">
+                    <div class="timeline__bullet"></div>
+                    <div class="timeline__header">
+                        <p class="timeline__timeframe">May 2017 - August 2017</p>
+                        <h3>Southern Glove</h3>
+                        <h5>Production Development Intern</h5>
+                    </div>
+                    <div class="timeline__desc">
+                        <p>
+                            Worked as a summer intern for the logistic and production department. Assisted through
+                            styleCAD to edit, create, and collect information for old and new styled garments and
+                            gloves. Translated over 100 product sheets to spanish for distribution and assembly.
+                            Contributed on hardware troubleshooting of pathfinder cutting machine. Collaborated in a
+                            team to manage and distribute work load for weekly demands for products.
+                        </p>
+                    </div>
+                </div> <!-- End of Southern Glove Inc internship -->
 
-                    <!--PC Lan Support Technician UTMC-->
-                    <div class="timeline__block">
-                        <div class="timeline__bullet"></div>
-                        <div class="timeline__header">
-                            <p class="timeline__timeframe">September 2017 - January 2019</p>
-                            <h3>University of Toledo Medical Center</h3>
-                            <h5>PC Lan Support Technician</h5>
-                        </div>
-                        <div class="timeline__desc">
-                            <p>
-                                Setup, re-image/reload & maintain PCs, Windows networks, file servers, network cabling,
-                                & other related equipment, devices & systems. Develop, test, and deploy scripts to
-                                automatize computer reimaging process. Design and costume image files through Windows
-                                System Image Manager. Maintain and collect information on deployed CISCO switches
-                                through SSH/Telnet using PuTTY. created management tracking system for deployed assets'
-                                information, CISCO networking hardware, and static IPs on the network.
-                            </p>
-                        </div>
-                    </div> <!-- end timeline__block -->
+                <!-- NPU Phonathon Caller -->
+                <div class="timeline__block">
+                    <div class="timeline__bullet"></div>
+                    <div class="timeline__header">
+                        <p class="timeline__timeframe">September 2015 - December 2016</p>
+                        <h3>North Park University</h3>
+                        <h5>Phonathon Caller</h5>
+                    </div>
+                    <div class="timeline__desc">
+                        <p>
+                            Called alumni, parents of current students, and people with a connection towards North Park
+                            University in order to help rebuild & strengthen the connection between them and the
+                            university. Also asked them to partner with us by giving/pledging to the North Park Fund.
+                            The North Park Fund is used for scholarship assistance for students, about 95% of current
+                            North Park students are helped by this fund.
+                        </p>
+                    </div>
+                </div> <!-- End of NPU Phonathon Caller -->
 
-                </div> <!-- end timeline -->
-            </div> <!-- end left -->
-
-            <!-- Start of right -->
-            <div class="col-six tab-full right">
-                <div class="timeline">
-
-                    <!--Production Development Intern-->
-                    <div class="timeline__block">
-                        <div class="timeline__bullet"></div>
-                        <div class="timeline__header">
-                            <p class="timeline__timeframe">May 2017 - August 2017</p>
-                            <h3>Southern Glove Inc</h3>
-                            <h5>Production Development Intern</h5>
-                        </div>
-                        <div class="timeline__desc">
-                            <p>
-                                Worked as a summer intern for the logistic and production department. Assisted through
-                                styleCAD to edit, create, and collet information for old and new styled garments and
-                                gloves. Translated over 100 product sheets to spanish for distribution and assembly.
-                                Contributed on hardware troubleshooting of pathfinder cutting machine. Collaborated in a
-                                team to manage and distribute work load for weekly demands for products.
-                            </p>
-                        </div>
-                    </div> <!-- end timeline__block -->
-
-                    <!--Phonathon NPU-->
-                    <div class="timeline__block">
-                        <div class="timeline__bullet"></div>
-                        <div class="timeline__header">
-                            <p class="timeline__timeframe">September 2015 - Decemer 2016</p>
-                            <h3>North Park University</h3>
-                            <h5>Phonathon Caller</h5>
-                        </div>
-                        <div class="timeline__desc">
-                            <p>
-                                Called alumni, parents of current students, and people with a connection towards North
-                                Park University in order to help rebuild & strengthen the connection between them and
-                                the university. Also asked them to partner with us by giving/pledging to the North Park
-                                Fund. The North Park Fund is used for scholarship assistance for students, about 95% of
-                                current North Park students are helped by this fund.
-                            </p>
-                        </div>
-                    </div> <!-- end timeline__block -->
-
-                </div> <!-- end timeline -->
-            </div> <!-- end right -->
+            </div> <!-- end timeline -->
+        </div> <!-- end right -->
 
         </div> <!-- end about-content timeline -->
-    </section> <!--End of About section-->
+
+    </section> <!-- end about -->
+</section>
+
+<!--Projects -->
+<!-- works
+================================================== -->
+<section id="works" class="s-works target-section">
+
+    <div class="row narrow section-intro has-bottom-sep">
+        <div class="col-full">
+            <h3>Portfolio</h3>
+            <h1>See My Latest Projects.</h1>
+
+            <p class="lead">Currently working to bring Java, C++ and Python Projects to this section.</p>
+            <p>Meanwhile you can go here: www.github.com/cgalo</p>
+        </div>
+    </div>
+</section> <!-- end works -->
 
 
 
-    <!--Projects -->
-    <section id="works" class="s-works target-section">
-        <div class="row narrow section-intro has-bottom-sep">
-            <div class="col-full">
-                <h3>Portfolio</h3>
-                <h1>See My Latest Projects.</h1>
-                <p class="lead">Currently working to bring Java, C++ and Python Projects to this section.</p>
-                <p>Meanwhile you can go here: www.github.com/cgalo</p>
+<!--
+<div class="s-testimonials">
+
+<div class="overlay"></div>
+
+<div class="row testimonials-header">
+    <div class="col-full">
+        <h1 class="h02">What People Say.</h1>
+    </div>
+</div>
+
+<div class="row testimonials">
+
+    <div class="col-full testimonials__slider">
+
+        <div class="testimonials__slide">
+            <img src="images/avatars/user-01.jpg" alt="Author image" class="testimonials__avatar">
+            <p>Qui ipsam temporibus quisquam velMaiores eos cumque distinctio nam accusantium ipsum.
+            Laudantium quia consequatur molestias delectus culpa facere hic dolores aperiam. Accusantium quos qui praesentium corpori.</p>
+            <div class="testimonials__author h06">
+                Tim Cook
+                <span>CEO, Apple</span>
             </div>
         </div>
-    </section> <!-- End of works/projects -->
 
-    <!-- Courses Section -->
-    <section id="courses" class="s-works target-section">
-        <!--Headers for Coursework section-->
-            <div class="row narrow section-intro has-bottom-sep">
-                <div class="col-full">
-                    <h3>Courses</h3>
-                    <h1>Undergraduate Courses Completed</h1>
-                </div>
-            </div> <!--End of Headers for Coursework section-->
-
-            <!--Start of row -->
-            <div class="row add-bottom">
-
-            <!--CSE major Coursework Table -->
-            <div class="col-six tab-full">
-
-                <h3>Computer Science Coursework</h3>
-                <p>Major Courses Completed</p>
-
-                <div class="table-responsive">
-
-                    <table>
-                            <tr>
-                                <th>Class</th>
-                                <th>Subject</th>
-                                <th>Level</th>
-
-                            </tr>
-
-                            <tbody>
-
-                            <tr>
-                                <td>Digital Logic Design</td>
-                                <td>EECS</td>
-                                <td>1100</td>
-                            </tr>
-
-                            <tr>
-                                <td>Object-Oriented Programming</td>
-                                <td>EECS</td>
-                                <td>1510</td>
-                            </tr>
-
-                            <tr>
-                                <td>Circuits I</td>
-                                <td>EECS</td>
-                                <td>2300</td>
-                            </tr>
-
-                            <tr>
-                                <td>Linear Data Structures</td>
-                                <td>EECS</td>
-                                <td>2500</td>
-                            </tr>
-                            <tr>
-                                <td>Discrete Structures</td>
-                                <td>EECS</td>
-                                <td>2520</td>
-
-                            </tr>
-                            </tbody>
-                    </table>
-                    <!--End of CSE coursework table-->
-
-                </div>
+        <div class="testimonials__slide">
+            <img src="images/avatars/user-05.jpg" alt="Author image" class="testimonials__avatar">
+            <p>Excepturi nam cupiditate culpa doloremque deleniti repellat. Veniam quos repellat voluptas animi adipisci.
+            Nisi eaque consequatur. Quasi voluptas eius distinctio. Atque eos maxime. Qui ipsam temporibus quisquam vel.</p>
+            <div class="testimonials__author h06">
+                Sundar Pichai
+                <span>CEO, Google</span>
             </div>
+        </div>
 
-            <!--Start of Mathematics Coursework-->
-            <div class="col-six tab-full" >
-                    <h3>Mathematics Coursework</h3>
-                    <p>Mathematics Courses Completed</p>
-                    <div class = "table-responsive">
-                        <table>
+        <div class="testimonials__slide">
+            <img src="images/avatars/user-02.jpg" alt="Author image" class="testimonials__avatar">
+            <p>Repellat dignissimos libero. Qui sed at corrupti expedita voluptas odit. Nihil ea quia nesciunt. Ducimus aut sed ipsam.
+            Autem eaque officia cum exercitationem sunt voluptatum accusamus. Quasi voluptas eius distinctio.</p>
+            <div class="testimonials__author h06">
+                Satya Nadella
+                <span>CEO, Microsoft</span>
+            </div>
+        </div>
 
-                        <thead>
-                        <!--Header for table-->
-                        <tr>
-                            <th>Class</th>
-                            <th>Subject</th>
-                            <th>Level</th>
+    </div>
 
-                        </tr> <!--End of table header-->
-                        <!--Courses completed-->
-                            <tr>
-                                <td>Calculus I</td>
-                                <td>MATH</td>
-                                <td>1850</td>
-                            </tr>
+</div>
 
-                            <tr>
-                                <td>Calculus II</td>
-                                <td>MATH</td>
-                                <td>1860</td>
-                            </tr>
+</div>
+-->
 
-                            <tr>
-                                <td>Elementary Multivariable Calculus</td>
-                                <td>MATH</td>
-                                <td>2850</td>
-                            </tr>
 
-                            <tr>
-                                <td>Linear Algebra</td>
-                                <td>MATH</td>
-                                <td>2890</td>
-                            </tr>
+<!-- Courses Section -->
+<section id="courses" class="s-works target-section">
 
-                            <tr>
-                                <td>Engineering Statistics</td>
-                                <td>MIME</td>
-                                <td>4000</td>
-                            </tr>
+    <!--Headers for Coursework section-->
+    <div class="row narrow section-intro has-bottom-sep">
+        <div class="col-full">
+            <h3>Courses</h3>
+            <h1>Undergraduate Courses Completed</h1>
+        </div>
+    </div> <!--End of Headers for Coursework section-->
 
-                        </tbody>
-                    </table>
-                    </div>
+    <!--Start of row -->
+    <div class="row add-bottom">
 
-                </div>
+        <!--CSE major Coursework Table -->
+        <div class="col-six tab-full">
+
+            <h3>Computer Science Coursework</h3>
+            <p>Classes completed for Computer Science & Engineering major</p>
+
+            <div class="table-responsive">
+
+                <table>
+                    <tr>
+                        <th>Class</th>
+                        <th>Subject</th>
+                        <th>Level</th>
+
+                    </tr>
+
+                    <tbody>
+
+                    <tr>
+                        <td>Digital Logic Design</td>
+                        <td>EECS</td>
+                        <td>1100</td>
+                    </tr>
+
+                    <tr>
+                        <td>Object-Oriented Programming</td>
+                        <td>EECS</td>
+                        <td>1510</td>
+                    </tr>
+
+                    <tr>
+                        <td>Circuits I</td>
+                        <td>EECS</td>
+                        <td>2300</td>
+                    </tr>
+
+                    <tr>
+                        <td>Linear Data Structures</td>
+                        <td>EECS</td>
+                        <td>2500</td>
+                    </tr>
+                    <tr>
+                        <td>Discrete Structures</td>
+                        <td>EECS</td>
+                        <td>2520</td>
+
+                    </tr>
+
+
+
+                    </tbody>
+                </table>
+                <!--End of CSE coursework table-->
 
             </div>
-            <!--End of Mathematics Coursework-->
+        </div>
 
-                </div>
+        <!--Start of Mathematics Coursework-->
+        <div class="col-six tab-full" >
+            <h3>Mathematics Coursework</h3>
+            <p>Relevant Mathematic classes completed</p>
+            <div class = "table-responsive">
+                <table>
+
+                    <thead>
+                    <tr>
+                        <th>Class</th>
+                        <th>Subject</th>
+                        <th>Level</th>
+
+                    </tr>
+
+
+
+                    <tr>
+                        <td>Calculus I</td>
+                        <td>MATH</td>
+                        <td>1850</td>
+                    </tr>
+
+                    <tr>
+                        <td>Calculus II</td>
+                        <td>MATH</td>
+                        <td>1860</td>
+                    </tr>
+
+                    <tr>
+                        <td>Elementary Multivariable Calculus</td>
+                        <td>MATH</td>
+                        <td>2850</td>
+                    </tr>
+
+                    <tr>
+                        <td>Linear Algebra</td>
+                        <td>MATH</td>
+                        <td>2890</td>
+                    </tr>
+
+                    <tr>
+                        <td>Engineering Statistics</td>
+                        <td>MIME</td>
+                        <td>4000</td>
+                    </tr>
+
+                    </tbody>
+                </table>
             </div>
-            </div>
-            <!-- end row -->
 
-            <!--Start of 2nd row-->
-            <div class="row add-bottom">
-                <!--ECON minor Coursework -->
-                <div class="col-six tab-full">
+        </div>
 
-                <h3>Economics Coursework</h3>
-                <p>Economics Minor Coursework</p>
-                <div class="table-responsive">
+    </div>
+    <!--End of Mathematics Coursework-->
 
-                    <table>
+    </div>
+    </div>
+    </div>
+    <!-- end row -->
 
-                        <thead>
-                        <tr>
-                            <th>Class</th>
-                            <th>Subject</th>
-                            <th>Level</th>
+    <!--Start of 2nd row-->
+    <div class="row add-bottom">
+        <!--ECON minor Coursework -->
+        <div align="center" class="col-six" >
 
-                        </tr>
+            <h3>Economics Coursework</h3>
+            <p>SHRINK #3</p>
+            <div class="table-responsive">
 
-                        <tr>
-                            <td>Principles of Macroeconomics</td>
-                            <td>ECON</td>
-                            <td>1150</td>
-                        </tr>
+                <table style="margin:1em auto;">
 
-                        <tr>
-                            <td>Principles of Microeconomics</td>
-                            <td>ECON</td>
-                            <td>1200</td>
-                        </tr>
+                    <thead>
+                    <tr>
+                        <th>Class</th>
+                        <th>Subject</th>
+                        <th>Level</th>
 
-                        <tr>
-                            <td>Intermediate Macroeconomic Theory</td>
-                            <td>ECON</td>
-                            <td>3150</td>
-                        </tr>
+                    </tr>
 
-                        </tbody>
-                    </table>
-                    <!--End of ECON coursework table-->
+                    <tr>
+                        <td>Principles of Macroeconomics</td>
+                        <td>ECON</td>
+                        <td>1150</td>
+                    </tr>
+
+                    <tr>
+                        <td>Principles of Microeconomics</td>
+                        <td>ECON</td>
+                        <td>1200</td>
+                    </tr>
+
+                    <tr>
+                        <td>Intermediate Macroeconomic Theory</td>
+                        <td>ECON</td>
+                        <td>3150</td>
+                    </tr>
+
+                    </tbody>
+                </table>
+                <!--End of ECON coursework table-->
             </div> <!--End of 2nd row-->
-    </section>
 
-    <!-- s-stats
-    ================================================== -->
-    <section id="stats" class="s-stats">
-        <div class="row block-1-4 block-tab-1-2 block-mob-full stats">
+</section>
 
-            <div class="col-block stats__col ">
-                <div class="stats__count">
-                    2020
-                </div>
-                <h4>Expected Graduation</h4>
+<!-- s-stats
+================================================== -->
+<section id="stats" class="s-stats">
+    <div class="row block-1-4 block-tab-1-2 block-mob-full stats">
+
+        <div class="col-block stats__col ">
+            <div class="stats__count">
+                2020
             </div>
-            <div class="col-block stats__col">
-                <div class="stats__count">
-                    2
-                </div>
-                <h4>Ironman 70.3 Triathlons</h4>
-            </div>
-            <div class="col-block stats__col stats__col--highlight">
-                <div class="stats__upsign">
-                    <a href="#"><i class="im im-arrow-up" aria-hidden="true"></i></a>
-                </div>
-                <div class="stats__count">
-                    30
-                </div>
-                <h4>Projects Completed</h4>
-            </div>
-            <div class="col-block stats__col">
-                <div class="stats__count">
-                    3
-                </div>
-                <h4>Internships</h4> 
-            </div>
+            <h4>Expected Graduation</h4>
         </div>
-    </section> <!-- end s-stats -->
-
-
-    <!-- s-stats
-    ================================================== -->
-    <section id="contact" class="s-contact target-section">
-
-        <div class="overlay"></div>
-
-        <div class="row narrow section-intro">
-            <div class="col-full">
-                <h3>Contact</h3>
-                <h1>Say Hello.</h1>
-                
-                <p class="lead">Use the form below for for professional inquiries or to share your questions, thoughts,
-                                ideas and feedback.</p>
+        <div class="col-block stats__col">
+            <div class="stats__count">
+                2
             </div>
+            <h4>Ironman 70.3 Triathlons</h4>
         </div>
+        <div class="col-block stats__col stats__col--highlight">
+            <div class="stats__upsign">
+                <a href="#works"><i class="im im-arrow-up" aria-hidden="true"></i></a>
+            </div>
+            <div class="stats__count">
+                30
+            </div>
+            <h4>Projects Completed</h4>
+        </div>
+        <div class="col-block stats__col">
+            <div class="stats__count">
+                3
+            </div>
+            <h4>Internships</h4>
+        </div>
+    </div>
+</section> <!-- end s-stats -->
 
-        <div class="row contact__main">
-            <div class="col-eight tab-full contact__form">
-                <form name="contactForm" id="contactForm" method="post" action="">
-                    <fieldset>
+
+<!-- s-stats
+================================================== -->
+<section id="contact" class="s-contact target-section">
+
+    <div class="overlay"></div>
+
+    <div class="row narrow section-intro">
+        <div class="col-full">
+            <h3>Contact</h3>
+            <h1>Say Hello.</h1>
+
+            <p class="lead">Use the form below for for professional inquiries or to share your questions, thoughts,
+                ideas and feedback.</p>
+        </div>
+    </div>
+
+    <div class="row contact__main">
+        <div class="col-eight tab-full contact__form">
+            <form name="contactForm" id="contactForm" method="post" action="">
+                <fieldset>
 
                     <div class="form-field">
-                        <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="" aria-required="true" class="full-width">
+                        <input name="contactName" type="text" id="contactName" placeholder="Name" value=""
+                               minlength="2" required="" aria-required="true" class="full-width">
                     </div>
                     <div class="form-field">
-                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="" aria-required="true" class="full-width">
+                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value=""
+                               required="" aria-required="true" class="full-width">
                     </div>
                     <div class="form-field">
-                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="" class="full-width">
+                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value=""
+                               class="full-width">
                     </div>
                     <div class="form-field">
-                        <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required="" aria-required="true" class="full-width"></textarea>
+                        <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50"
+                                  required="" aria-required="true" class="full-width"></textarea>
                     </div>
                     <div class="form-field">
                         <button class="full-width btn--primary">Submit</button>
@@ -595,138 +657,143 @@
                             </div>
                         </div>
                     </div>
-    
-                    </fieldset>
-                </form>
 
-                <!-- contact-warning -->
-                <div class="message-warning">
-                    Something went wrong. Please try again.
-                </div> 
-            
-                <!-- contact-success -->
-                <div class="message-success">
-                    Your message was sent, thank you!<br>
-                </div>
-                        
+                </fieldset>
+            </form>
+
+            <!-- contact-warning -->
+            <div class="message-warning">
+                Something went wrong. Please try again.
             </div>
-            <div class="col-four tab-full contact__infos">
-                <h4 class="h06">Phone</h4>
-                <p>Mobile: (+1) 708 731 7625
-                </p>
 
-                <h4 class="h06">Emails</h4>
-                <p>cgalo@cgalo.tech<br>
+            <!-- contact-success -->
+            <div class="message-success">
+                Your message was sent, thank you!<br>
+            </div>
+
+        </div>
+        <div class="col-four tab-full contact__infos">
+            <h4 class="h06">Phone</h4>
+            <p>Mobile: (+1) 708 731 7625
+            </p>
+
+            <h4 class="h06">Emails</h4>
+            <p>cgalo@cgalo.tech<br>
                 carlos.galo@utoledo.com
-                </p>
+            </p>
 
-                <h4 class="h06">Address</h4>
-                <p>
+            <h4 class="h06">Address</h4>
+            <p>
                 1758 North Westwood Avenue<br>
                 Toledo, OH<br>
                 43607 US
-                </p>
-            </div>
-
+            </p>
         </div>
 
-    </section> <!-- end s-contact -->
+    </div>
+
+</section> <!-- end s-contact -->
 
 
-    <!-- footer  -->
-    <footer>
-        <div class="row">
-            <div class="col-full">
+<!-- footer  -->
+<footer>
+    <div class="row">
+        <div class="col-full">
 
-                <div class="footer-logo">
-                    <a class="footer-site-logo" href="http://www.cgalo.tech/index.html"><img src="images/logo.png" alt="Homepage"></a>
-                </div>
-
-                <ul class="footer-social">
-                    <li><a href="https://www.github.com/cgalo">
-                        <i class="im im-github" aria-hidden="true"></i>
-                        <span>GitHub</span>
-                    </a></li>
-                    <li><a href="https://www.linkedin.com/in/carlos-galo/">
-                        <i class="im im-linkedin" aria-hidden="true"></i>
-                        <span>LinkedIn</span>
-                    </a></li>
-                    <li><a href="https://www.facebook.com/c.galo21">
-                        <i class="im im-facebook" aria-hidden="true"></i>
-                        <span>Facebook</span>
-                    </a></li>
-                </ul>
-                    
+            <div class="footer-logo">
+                <a class="footer-site-logo" href="http://www.cgalo.tech/index.html"><img src="images/logo.png" alt="Homepage"></a>
             </div>
+
+            <ul class="footer-social">
+                <li><a href="https://www.github.com/cgalo">
+                    <i class="im im-github" aria-hidden="true"></i>
+                    <span>GitHub</span>
+                </a></li>
+                <li><a href="https://www.linkedin.com/in/carlos-galo/">
+                    <i class="im im-linkedin" aria-hidden="true"></i>
+                    <span>LinkedIn</span>
+                </a></li>
+                <li><a href="https://www.facebook.com/c.galo21">
+                    <i class="im im-facebook" aria-hidden="true"></i>
+                    <span>Facebook</span>
+                </a></li>
+            </ul>
+
         </div>
+    </div>
 
-        <div class="row footer-bottom">
+    <div class="row footer-bottom">
 
-            <div class="col-twelve">
-                <div class="copyright">
-                    <span>© Copyright Hola 2017</span> 
-                    <span>Design by <a href="https://www.styleshout.com/">styleshout</a></span> 
-                </div>
+        <div class="col-twelve">
+            <div class="copyright">
+                <span>© Copyright Hola 2017</span>
+                <span>Design by <a href="https://www.styleshout.com/">styleshout</a></span>
+            </div>
 
-                <div class="go-top">
+            <div class="go-top">
                 <a class="smoothscroll" title="Back to Top" href="#top"><i class="im im-arrow-up" aria-hidden="true"></i></a>
-                </div>
             </div>
+        </div>
 
-        </div> <!-- end footer-bottom -->
+    </div> <!-- end footer-bottom -->
 
-    </footer> <!-- end footer -->
+</footer> <!-- end footer -->
 
 
-    <!-- photoswipe background
-    ================================================== -->
-    <div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
+<!-- photoswipe background
+================================================== -->
+<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
 
-        <div class="pswp__bg"></div>
-        <div class="pswp__scroll-wrap">
+    <div class="pswp__bg"></div>
+    <div class="pswp__scroll-wrap">
 
-            <div class="pswp__container">
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-                <div class="pswp__item"></div>
-            </div>
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
 
-            <div class="pswp__ui pswp__ui--hidden">
-                <div class="pswp__top-bar">
-                    <div class="pswp__counter"></div><button class="pswp__button pswp__button--close" title="Close (Esc)"></button> <button class="pswp__button pswp__button--share" title=
-                    "Share"></button> <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button> <button class="pswp__button pswp__button--zoom" title=
-                    "Zoom in/out"></button>
-                    <div class="pswp__preloader">
-                        <div class="pswp__preloader__icn">
-                            <div class="pswp__preloader__cut">
-                                <div class="pswp__preloader__donut"></div>
-                            </div>
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+                <button class="pswp__button pswp__button--close"    title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share"    title= "Share"></button>
+                <button class="pswp__button pswp__button--fs"       title ="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom"     title = "Zoom in/out"></button>
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
                         </div>
                     </div>
                 </div>
-                <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                    <div class="pswp__share-tooltip"></div>
-                </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title=
-                "Next (arrow right)"></button>
-                <div class="pswp__caption">
-                    <div class="pswp__caption__center"></div>
-                </div>
             </div>
-
-        </div> 
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title=
+                "Next (arrow right)"></button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
 
     </div>
 
-    <div id="preloader">
-        <div id="loader"></div>
-    </div>
+</div>
+
+<div id="preloader">
+    <div id="loader"></div>
+</div>
 
 
-    <!-- Java Script
-    ================================================== -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/main.js"></script>
+<!-- Java Script
+================================================== -->
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<!--Php -->
+<script src="inc/sendEmail.php"></script>
 
 </body>
 
