@@ -19,9 +19,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
+            <state relative-caret-position="364">
+              <caret line="418" column="43" selection-start-line="418" selection-start-column="43" selection-end-line="418" selection-end-column="43" />
               <folding>
+                <element signature="e#8695#10093#0" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -150,7 +151,7 @@
       <workItem from="1556587261216" duration="2274000" />
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
-      <workItem from="1556810760020" duration="2520000" />
+      <workItem from="1556810760020" duration="3413000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -369,11 +370,46 @@
       <option name="project" value="LOCAL" />
       <updated>1556819803919</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button">
+      <created>1556819892568</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1556819892573</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Updated index.html&#10;-Updated section: Table&#10;--Added comment block">
+      <created>1556820019322</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1556820019322</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Updated index.html&#10;-Updated section: Table&#10;--Added comment block">
+      <created>1556820055954</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1556820055954</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Updated index.html&#10;-Updated section: Experience&#10;--Edited header">
+      <created>1556820131090</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1556820131090</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Updated index.html&#10;-Updated section: Experience&#10;--Edited header">
+      <created>1556820151259</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1556820151259</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41394000" />
+    <option name="totallyTimeSpent" value="42287000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,10 +421,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="-776" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13988096" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12425645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -432,8 +468,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section" />
-    <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Added &quot;Certificates&quot; to header of index file" />
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Created and moved certificate section &#10;    -- Linked section to header button" />
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Debugging section issues between Certificates and Work" />
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged unclosed home section" />
@@ -457,7 +491,9 @@
     <MESSAGE value="Updated index.html&#10;-Updated section: Experience&#10;--Edited Header for section" />
     <MESSAGE value="Updated index.html&#10;-Updated section: Experience" />
     <MESSAGE value="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button" />
+    <MESSAGE value="Updated index.html&#10;-Updated section: Table&#10;--Added comment block" />
+    <MESSAGE value="Updated index.html&#10;-Updated section: Experience&#10;--Edited header" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;-Updated section: Experience&#10;--Edited header" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -521,9 +557,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
+        <state relative-caret-position="364">
+          <caret line="418" column="43" selection-start-line="418" selection-start-column="43" selection-end-line="418" selection-end-column="43" />
           <folding>
+            <element signature="e#8695#10093#0" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
