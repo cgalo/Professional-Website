@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="283" column="35" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
+            <state relative-caret-position="245">
+              <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -46,6 +47,7 @@
       <find>Subm</find>
       <find>submi</find>
       <find>Download</find>
+      <find>resume</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -83,31 +85,6 @@
             <path>
               <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -173,7 +150,7 @@
       <workItem from="1556587261216" duration="2274000" />
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
-      <workItem from="1556810760020" duration="825000" />
+      <workItem from="1556810760020" duration="2520000" />
     </task>
     <task id="LOCAL-00001" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
       <created>1556212810969</created>
@@ -371,11 +348,32 @@
       <option name="project" value="LOCAL" />
       <updated>1556811442425</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Updated index.html&#10;-Updated section: Experience&#10;--Edited Header for section">
+      <created>1556811607590</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1556811607590</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Updated index.html&#10;-Updated section: Experience">
+      <created>1556811807805</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1556811807805</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button">
+      <created>1556819803919</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1556819803919</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39699000" />
+    <option name="totallyTimeSpent" value="41394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -434,9 +432,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Edited Skills list:&#10; - Added Git Version control as a skill" />
-    <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Trying to center Economics table" />
-    <MESSAGE value="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table" />
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section" />
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Added &quot;Certificates&quot; to header of index file" />
     <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Created and moved certificate section &#10;    -- Linked section to header button" />
@@ -459,7 +454,10 @@
     <MESSAGE value="Updated index.html&#10;--Deleted Certificate section" />
     <MESSAGE value="Updated index.html&#10;--Edited header for &quot;Experience&quot; section" />
     <MESSAGE value="Updated index.html&#10;-Updated section: About&#10;--Edited ASR IT Intern description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;-Updated section: About&#10;--Edited ASR IT Intern description" />
+    <MESSAGE value="Updated index.html&#10;-Updated section: Experience&#10;--Edited Header for section" />
+    <MESSAGE value="Updated index.html&#10;-Updated section: Experience" />
+    <MESSAGE value="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -488,18 +486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/blog/blog-bg-01.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -518,10 +504,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/c764c8e0-6cf0-11e9-9d71-0cc47a792c0a_id_c764c8e0-6cf0-11e9-9d71-0cc47a792c0a.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2737">
+          <caret line="106" lean-forward="true" selection-start-line="106" selection-end-line="106" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="283" column="35" selection-start-line="283" selection-start-column="35" selection-end-line="283" selection-end-column="35" />
+        <state relative-caret-position="245">
+          <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
