@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/inc/sendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/sendEmail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,21 +14,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="755" column="68" selection-start-line="755" selection-start-column="68" selection-end-line="755" selection-end-column="68" />
-              <folding>
-                <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="511">
+                  <caret line="752" column="68" selection-start-line="752" selection-start-column="68" selection-end-line="752" selection-end-column="68" />
+                  <folding>
+                    <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/certificates.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="59" column="83" selection-start-line="59" selection-start-column="83" selection-end-line="59" selection-end-column="83" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="37">
+                  <caret line="48" column="12" lean-forward="true" selection-start-line="48" selection-start-column="12" selection-end-line="48" selection-end-column="12" />
+                  <folding>
+                    <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,8 +93,9 @@
       <list>
         <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/certificates.html" />
       </list>
     </option>
   </component>
@@ -85,6 +116,11 @@
             <path>
               <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -411,11 +447,25 @@
       <option name="project" value="LOCAL" />
       <updated>1556821746402</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Rename blog.html -&gt; certificates.html">
+      <created>1557001421357</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1557001421357</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Updated certificates.html header&#10;Updated index.html comment blocks">
+      <created>1557002526105</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1557002526105</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43698000" />
+    <option name="totallyTimeSpent" value="45308000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,6 +478,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.121916845" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -443,7 +494,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32872504" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32920793" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -473,9 +524,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Debugging section issues between Certificates and Work" />
-    <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged unclosed home section" />
-    <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged certificate section" />
     <MESSAGE value="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file" />
     <MESSAGE value="Recreated index.html before adding certificates" />
     <MESSAGE value="Recreated index.html before adding certificates&#10;-- Added comments block throughout and edited &lt;p&gt;&lt;/p&gt; throughout" />
@@ -498,7 +546,10 @@
     <MESSAGE value="Updated index.html&#10;-Updated section: Table&#10;--Added comment block" />
     <MESSAGE value="Updated index.html&#10;-Updated section: Experience&#10;--Edited header" />
     <MESSAGE value="Updated index.html&#10;-Updated section: Courses&#10;--Removed and center &lt;p&gt; of the tables" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;-Updated section: Courses&#10;--Removed and center &lt;p&gt; of the tables" />
+    <MESSAGE value="Rename blog.html -&gt; certificates.html -&gt;&#10;-Updated section: Courses&#10;--Removed and center &lt;p&gt; of the tables" />
+    <MESSAGE value="Rename blog.html -&gt; certificates.html" />
+    <MESSAGE value="Updated certificates.html header&#10;Updated index.html comment blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates.html header&#10;Updated index.html comment blocks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -521,13 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9911">
           <caret line="583" column="38" selection-start-line="535" selection-start-column="4" selection-end-line="583" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -556,12 +600,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="755" column="68" selection-start-line="755" selection-start-column="68" selection-end-line="755" selection-end-column="68" />
+        <state relative-caret-position="511">
+          <caret line="752" column="68" selection-start-line="752" selection-start-column="68" selection-end-line="752" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certificates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="59" column="83" selection-start-line="59" selection-start-column="83" selection-end-line="59" selection-end-column="83" />
         </state>
       </provider>
     </entry>
