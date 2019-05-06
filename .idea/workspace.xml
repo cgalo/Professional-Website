@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certificates.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,13 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1088">
-              <caret line="229" column="43" selection-start-line="229" selection-start-column="43" selection-end-line="229" selection-end-column="43" />
+            <state relative-caret-position="315">
+              <caret line="228" column="23" selection-start-line="228" selection-start-column="23" selection-end-line="228" selection-end-column="23" />
               <folding>
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -35,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            <state relative-caret-position="261">
+              <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -86,8 +88,8 @@
         <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
-        <option value="$PROJECT_DIR$/certificates.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/certificates.html" />
       </list>
     </option>
   </component>
@@ -190,27 +192,6 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-    </task>
-    <task id="LOCAL-00002" summary="Edited Skills list:&#10; - Added Git Version control as a skill">
-      <created>1556212858468</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1556212858468</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Trying to center Economics table">
-      <created>1556218716773</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1556218716773</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Updated index.html:&#10; -- Updated Coursework section:&#10;    --Edit economics table">
-      <created>1556221774413</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1556221774413</updated>
     </task>
     <task id="LOCAL-00005" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section">
       <created>1556304419615</created>
@@ -534,11 +515,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557100714118</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Updated index.html&#10;- Edited About Me &amp; Experience Sections&#10;-- Moved Experience section to its own section">
+      <created>1557103723525</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1557103723525</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Updated index.html&#10;- Updated comment blocks for Experience section">
+      <created>1557103804908</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1557103804908</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Updated certificates.html&#10;- Created new header for page">
+      <created>1557105391224</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1557105391224</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54274000" />
+    <option name="totallyTimeSpent" value="57309000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -597,9 +599,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Created a test page to copy layout" />
-    <MESSAGE value="Deleted Test.html" />
-    <MESSAGE value="Deleted commented section for &quot;What People Say&quot;" />
     <MESSAGE value="Updated index.html&#10;-- Added end-of comment section blocks&#10;-- Changed Skills section:&#10;   - Changed from &quot;I've got some skills&quot; --&gt; &quot;Acquired skills&quot;" />
     <MESSAGE value="Updated index.html&#10;-- Changed Courses section:&#10;   - Subheader of each table" />
     <MESSAGE value="Updated index.html" />
@@ -622,7 +621,10 @@
     <MESSAGE value="Updated index.html&#10;- Updated comment block" />
     <MESSAGE value="Updated certificates.html&#10;- Edited header&#10;-- &quot;Home&quot; button links back to index.html" />
     <MESSAGE value="Updated index.html&#10;- Edited About Me&#10;-- Hire me -&gt; Certificates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;- Edited About Me&#10;-- Hire me -&gt; Certificates" />
+    <MESSAGE value="Updated index.html&#10;- Edited About Me &amp; Experience Sections&#10;-- Moved Experience section to its own section" />
+    <MESSAGE value="Updated index.html&#10;- Updated comment blocks for Experience section" />
+    <MESSAGE value="Updated certificates.html&#10;- Created new header for page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates.html&#10;- Created new header for page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/blog-single.html">
@@ -674,22 +676,13 @@
     <entry file="file://$PROJECT_DIR$/images/hero-bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/certificates.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1088">
-          <caret line="229" column="43" selection-start-line="229" selection-start-column="43" selection-end-line="229" selection-end-column="43" />
+        <state relative-caret-position="315">
+          <caret line="228" column="23" selection-start-line="228" selection-start-column="23" selection-end-line="228" selection-end-column="23" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#table#0;n#div#0;n#div#0;n#div#2;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -698,6 +691,16 @@
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certificates.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="65" column="38" selection-start-line="65" selection-start-column="38" selection-end-line="65" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
