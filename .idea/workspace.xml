@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/certificates/UdemyBashShellScripting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/certificates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/home.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="149" column="19" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
+            <state relative-caret-position="73">
+              <caret line="149" column="43" selection-start-line="149" selection-start-column="43" selection-end-line="149" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -226,28 +224,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="11030000" />
-    </task>
-    <task id="LOCAL-00024" summary="Updated index.html&#10;--Took out parts of Contact section">
-      <created>1556654803299</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1556654803299</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Updated index.html&#10;--Added Certificates below About Me section">
-      <created>1556656174199</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1556656174199</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Updated index.html&#10;--Deleted Certificate section">
-      <created>1556714704470</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1556714704470</updated>
+      <workItem from="1557146408762" duration="11541000" />
     </task>
     <task id="LOCAL-00027" summary="Updated index.html&#10;--Edited header for &quot;Experience&quot; section">
       <created>1556726366396</created>
@@ -571,11 +548,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557157322484</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Updated certificates/home.html&#10;-Deleted fillers for home.html and added in Progress certificate&#10;--Bash Scripting and Shell Programming">
+      <created>1557161141324</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1557161141324</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting">
+      <created>1557161208284</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1557161208284</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting">
+      <created>1557161472972</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1557161472972</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69916000" />
+    <option name="totallyTimeSpent" value="70427000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -634,8 +632,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rename blog.html -&gt; certificates.html" />
-    <MESSAGE value="Updated certificates.html header&#10;Updated index.html comment blocks" />
     <MESSAGE value="Updated certificate.html&#10;- Renamed dcs_0303 to header" />
     <MESSAGE value="Updated certificate.html&#10;- Updated header pic" />
     <MESSAGE value="Updated index.html&#10;- Updated comment block" />
@@ -659,7 +655,9 @@
     <MESSAGE value="Updated main.css&#10;--Inverted colors for primary button" />
     <MESSAGE value="Updated UdemyIntroPowershell.html&#10;-- Edited header" />
     <MESSAGE value="Refactor -&gt; Rename Powershell Certificate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor -&gt; Rename Powershell Certificate" />
+    <MESSAGE value="Updated certificates/home.html&#10;-Deleted fillers for home.html and added in Progress certificate&#10;--Bash Scripting and Shell Programming" />
+    <MESSAGE value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -773,8 +771,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/certificates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="149" column="19" selection-start-line="149" selection-start-column="19" selection-end-line="149" selection-end-column="19" />
+        <state relative-caret-position="73">
+          <caret line="149" column="43" selection-start-line="149" selection-start-column="43" selection-end-line="149" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
