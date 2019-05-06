@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="340">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -210,14 +210,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="13346000" />
-    </task>
-    <task id="LOCAL-00031" summary="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button">
-      <created>1556819803919</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1556819803919</updated>
+      <workItem from="1557146408762" duration="14222000" />
     </task>
     <task id="LOCAL-00032" summary="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button">
       <created>1556819892568</created>
@@ -555,11 +548,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557162494460</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Updated certificates/home.html:&#10;- Updated comment blocks">
+      <created>1557163403365</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1557163403365</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72232000" />
+    <option name="totallyTimeSpent" value="73108000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -618,7 +618,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates.html&#10;- Edited header&#10;-- &quot;Home&quot; button links back to index.html" />
     <MESSAGE value="Updated index.html&#10;- Edited About Me&#10;-- Hire me -&gt; Certificates" />
     <MESSAGE value="Updated index.html&#10;- Edited About Me &amp; Experience Sections&#10;-- Moved Experience section to its own section" />
     <MESSAGE value="Updated index.html&#10;- Updated comment blocks for Experience section" />
@@ -643,7 +642,8 @@
     <MESSAGE value="Updated certificates/home.html:&#10;- Added comment blocks" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated header" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html:&#10;- Updated header" />
+    <MESSAGE value="Updated certificates/home.html:&#10;- Updated comment blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html:&#10;- Updated comment blocks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -760,8 +760,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="340">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
         </state>
       </provider>
     </entry>
