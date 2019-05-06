@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/certificates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="550">
@@ -24,11 +22,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/certificates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="149" column="43" selection-start-line="149" selection-start-column="43" selection-end-line="149" selection-end-column="43" />
+            <state relative-caret-position="702">
+              <caret line="147" column="59" selection-start-line="147" selection-start-column="59" selection-end-line="147" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -85,6 +83,7 @@
       <find>0D0A0B</find>
       <find>862121</find>
       <find>Homepage</find>
+      <find>Bash Scri</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -224,14 +223,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="11541000" />
-    </task>
-    <task id="LOCAL-00027" summary="Updated index.html&#10;--Edited header for &quot;Experience&quot; section">
-      <created>1556726366396</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1556726366396</updated>
+      <workItem from="1557146408762" duration="11783000" />
     </task>
     <task id="LOCAL-00028" summary="Updated index.html&#10;-Updated section: About&#10;--Edited ASR IT Intern description">
       <created>1556811442425</created>
@@ -569,11 +561,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557161472972</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Updated certificates/home.html:&#10;- Added comment blocks">
+      <created>1557161716977</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1557161716977</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70427000" />
+    <option name="totallyTimeSpent" value="70669000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,7 +631,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificate.html&#10;- Renamed dcs_0303 to header" />
     <MESSAGE value="Updated certificate.html&#10;- Updated header pic" />
     <MESSAGE value="Updated index.html&#10;- Updated comment block" />
     <MESSAGE value="Updated certificates.html&#10;- Edited header&#10;-- &quot;Home&quot; button links back to index.html" />
@@ -657,7 +655,8 @@
     <MESSAGE value="Refactor -&gt; Rename Powershell Certificate" />
     <MESSAGE value="Updated certificates/home.html&#10;-Deleted fillers for home.html and added in Progress certificate&#10;--Bash Scripting and Shell Programming" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
+    <MESSAGE value="Updated certificates/home.html:&#10;- Added comment blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html:&#10;- Added comment blocks" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -755,6 +754,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/certificates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="147" column="59" selection-start-line="147" selection-start-column="59" selection-end-line="147" selection-end-column="59" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/certificates/UdemyBashShellScripting.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -766,16 +775,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
           <caret line="74" column="45" selection-start-line="74" selection-start-column="37" selection-end-line="74" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="149" column="43" selection-start-line="149" selection-start-column="43" selection-end-line="149" selection-end-column="43" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
