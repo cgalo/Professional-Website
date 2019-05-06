@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/blog-single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/certificates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certificates/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/blog-single.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.html" beforeDir="false" afterPath="$PROJECT_DIR$/styles.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,17 +23,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="222" column="38" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
+            <state relative-caret-position="142">
+              <caret line="507" column="20" selection-start-line="507" selection-start-column="20" selection-end-line="507" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3651">
+              <caret line="380" column="30" lean-forward="true" selection-start-line="380" selection-start-column="30" selection-end-line="380" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-62">
+              <caret line="215" column="34" selection-start-line="215" selection-start-column="34" selection-end-line="215" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/certificates/index.html">
+        <entry file="file://$PROJECT_DIR$/certificates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+            <state relative-caret-position="362">
+              <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -87,9 +107,11 @@
         <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
-        <option value="$PROJECT_DIR$/certificates.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/certificates/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/certificates.html" />
+        <option value="$PROJECT_DIR$/certificates/certificates.html" />
+        <option value="$PROJECT_DIR$/certificates/home.html" />
       </list>
     </option>
   </component>
@@ -104,7 +126,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,6 +153,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,6 +172,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cgalo.ASRAYMOND\WebstormProjects\cgalo.github.io\certificates" />
+      <recent name="C:\Users\cgalo.ASRAYMOND\WebstormProjects\cgalo.github.io" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,13 +220,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-    </task>
-    <task id="LOCAL-00008" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Created and moved certificate section &#10;    -- Linked section to header button">
-      <created>1556305331417</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1556305331417</updated>
+      <workItem from="1557146408762" duration="915000" />
     </task>
     <task id="LOCAL-00009" summary="Updated index.html:&#10; -- Adding &quot;Certificate&quot; section:&#10;    --Debugging section issues between Certificates and Work">
       <created>1556306002613</created>
@@ -541,11 +558,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557116024470</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Moved certificates home page to main folder and pushed blog-single to &#10;certificate subfolder">
+      <created>1557146581336</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1557146581336</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58886000" />
+    <option name="totallyTimeSpent" value="59801000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -558,6 +582,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12425645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -573,7 +598,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32771084" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -603,7 +628,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index.html" />
     <MESSAGE value="Updated index.html&#10;--Took out parts of Contact section" />
     <MESSAGE value="Updated index.html&#10;--Added Certificates below About Me section" />
     <MESSAGE value="Updated index.html&#10;--Deleted Certificate section" />
@@ -628,7 +652,8 @@
     <MESSAGE value="Updated certificates.html&#10;- Created new header for page" />
     <MESSAGE value="Updated certificates.html" />
     <MESSAGE value="Updated index.html&#10;--Updated Certificate button to new subpage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated index.html&#10;--Updated Certificate button to new subpage" />
+    <MESSAGE value="Moved certificates home page to main folder and pushed blog-single to &#10;certificate subfolder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved certificates home page to main folder and pushed blog-single to &#10;certificate subfolder" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -638,13 +663,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/avatars/user-01.jpg" />
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9911">
-          <caret line="583" column="38" selection-start-line="535" selection-start-column="4" selection-end-line="583" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/c764c8e0-6cf0-11e9-9d71-0cc47a792c0a_id_c764c8e0-6cf0-11e9-9d71-0cc47a792c0a.html" />
     <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -668,7 +686,6 @@
     <entry file="file://$PROJECT_DIR$/images/hero-bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/certificates.html" />
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -697,17 +714,38 @@
     <entry file="file://$PROJECT_DIR$/certificates/blog-single.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="222" column="38" selection-start-line="222" selection-start-column="38" selection-end-line="222" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/certificates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="48" column="44" lean-forward="true" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+          <caret line="48" column="44" selection-start-line="48" selection-start-column="44" selection-end-line="48" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-62">
+          <caret line="215" column="34" selection-start-line="215" selection-start-column="34" selection-end-line="215" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="507" column="20" selection-start-line="507" selection-start-column="20" selection-end-line="507" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3651">
+          <caret line="380" column="30" lean-forward="true" selection-start-line="380" selection-start-column="30" selection-end-line="380" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certificates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
         </state>
       </provider>
     </entry>
