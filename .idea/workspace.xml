@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inc/sendEmail.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/sendEmail.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="-884">
               <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
             </state>
           </provider>
@@ -34,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="-553">
               <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
             </state>
           </provider>
@@ -89,8 +88,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="CGalo &lt;cgalo13@gmail.com&gt;" />
         <option value="cgalo &lt;cgalo13@gmail.com&gt;" />
+        <option value="CGalo &lt;cgalo13@gmail.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -227,14 +226,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="14364000" />
-    </task>
-    <task id="LOCAL-00033" summary="Updated index.html&#10;-Updated section: Table&#10;--Added comment block">
-      <created>1556820019322</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1556820019322</updated>
+      <workItem from="1557146408762" duration="15417000" />
     </task>
     <task id="LOCAL-00034" summary="Updated index.html&#10;-Updated section: Table&#10;--Added comment block">
       <created>1556820055954</created>
@@ -572,11 +564,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557164861199</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Updated sendEmail.php&#10;--Added owner email">
+      <created>1557165000785</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1557165000785</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73250000" />
+    <option name="totallyTimeSpent" value="74303000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -635,7 +634,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index.html&#10;- Edited About Me &amp; Experience Sections&#10;-- Moved Experience section to its own section" />
     <MESSAGE value="Updated index.html&#10;- Updated comment blocks for Experience section" />
     <MESSAGE value="Updated certificates.html&#10;- Created new header for page" />
     <MESSAGE value="Updated certificates.html" />
@@ -660,7 +658,8 @@
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated header" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated comment blocks" />
     <MESSAGE value="Updated certificates/Powershell.html&#10;- Updated comment blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/Powershell.html&#10;- Updated comment blocks" />
+    <MESSAGE value="Updated sendEmail.php&#10;--Added owner email" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated sendEmail.php&#10;--Added owner email" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -765,10 +764,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
+    <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="-553">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -779,10 +778,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
+    <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        <state relative-caret-position="-884">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
         </state>
       </provider>
     </entry>
