@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certificates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,43 +12,60 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/certificates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="104" column="80" selection-start-line="104" selection-start-column="80" selection-end-line="104" selection-end-column="80" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="282" column="85" lean-forward="true" selection-start-line="282" selection-start-column="20" selection-end-line="282" selection-end-column="85" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="91">
+                  <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="67" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/certificates/home.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="238">
+                  <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+                  <folding>
+                    <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/styles.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="124">
+                  <caret line="280" column="60" selection-start-line="280" selection-start-column="60" selection-end-line="280" selection-end-column="60" />
+                  <folding>
+                    <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -85,6 +99,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="cgalo &lt;cgalo13@gmail.com&gt;" />
         <option value="CGalo &lt;cgalo13@gmail.com&gt;" />
       </list>
     </option>
@@ -146,6 +161,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -209,28 +225,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="3664000" />
-    </task>
-    <task id="LOCAL-00012" summary="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file">
-      <created>1556307220828</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1556307220828</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Recreated index.html before adding certificates">
-      <created>1556587346601</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1556587346601</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Recreated index.html before adding certificates&#10;-- Added comments block throughout and edited &lt;p&gt;&lt;/p&gt; throughout">
-      <created>1556588319881</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1556588319881</updated>
+      <workItem from="1557146408762" duration="5482000" />
     </task>
     <task id="LOCAL-00015" summary="Updated index.html&#10;--Edited arrow button from Projects completed in stats section">
       <created>1556589111347</created>
@@ -554,11 +549,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557149250943</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons">
+      <created>1557150935903</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1557150935903</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons">
+      <created>1557151117997</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1557151117997</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post (powershell)&#10;--Created second button to link to blog-single.html">
+      <created>1557153811956</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1557153811956</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62550000" />
+    <option name="totallyTimeSpent" value="64368000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -571,7 +587,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12425645" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -617,8 +632,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index.html&#10;--Edited header for &quot;Experience&quot; section" />
-    <MESSAGE value="Updated index.html&#10;-Updated section: About&#10;--Edited ASR IT Intern description" />
     <MESSAGE value="Updated index.html&#10;-Updated section: Experience&#10;--Edited Header for section" />
     <MESSAGE value="Updated index.html&#10;-Updated section: Experience" />
     <MESSAGE value="Updated index.html&#10;-Updated section: About Me&#10;--Updated &quot;Download Resume&quot; button" />
@@ -642,7 +655,9 @@
     <MESSAGE value="Moved certificates.html to certificate subfolder&#10;certificate.html -&gt; home.html" />
     <MESSAGE value="Updated certificates/home.html&#10;-Updated footer, mimic the one in../index.html" />
     <MESSAGE value="Updated certificates/home.html&#10;-Updated header information" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html&#10;-Updated header information" />
+    <MESSAGE value="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons" />
+    <MESSAGE value="Updated certificates/home.html&#10;-Updated first certificate/blog post (powershell)&#10;--Created second button to link to blog-single.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html&#10;-Updated first certificate/blog post (powershell)&#10;--Created second button to link to blog-single.html" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -712,10 +727,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/certificates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/styles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="282" column="85" lean-forward="true" selection-start-line="282" selection-start-column="20" selection-end-line="282" selection-end-column="85" />
+        <state relative-caret-position="124">
+          <caret line="280" column="60" selection-start-line="280" selection-start-column="60" selection-end-line="280" selection-end-column="60" />
           <folding>
             <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
@@ -726,18 +751,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="104" column="80" selection-start-line="104" selection-start-column="80" selection-end-line="104" selection-end-column="80" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="220" column="14" lean-forward="true" selection-start-line="220" selection-start-column="14" selection-end-line="220" selection-end-column="14" />
         </state>
       </provider>
     </entry>
