@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="49" column="53" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="53" />
+            <state relative-caret-position="362">
+              <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -28,8 +28,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="47" column="86" selection-start-line="47" selection-start-column="86" selection-end-line="47" selection-end-column="86" />
+            <state relative-caret-position="238">
+              <caret line="104" column="80" selection-start-line="104" selection-start-column="80" selection-end-line="104" selection-end-column="80" />
+              <folding>
+                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="282" column="85" lean-forward="true" selection-start-line="282" selection-start-column="20" selection-end-line="282" selection-end-column="85" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,14 +70,16 @@
       <find>Subm</find>
       <find>submi</find>
       <find>Download</find>
-      <find>resume</find>
       <find>hero</find>
       <find>experience</find>
       <find>$PROJECT_DIR$/css/base.css</find>
       <find>stylesheet</find>
       <find>cert</find>
       <find>index.html</find>
+      <find>about</find>
+      <find>stroke b</find>
       <find>#0</find>
+      <find>resume</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -74,13 +93,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
         <option value="$PROJECT_DIR$/certificates/index.html" />
         <option value="$PROJECT_DIR$/certificates.html" />
         <option value="$PROJECT_DIR$/certificates/certificates.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/certificates/home.html" />
       </list>
     </option>
@@ -190,14 +209,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="1473000" />
-    </task>
-    <task id="LOCAL-00011" summary="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Debugged certificate section">
-      <created>1556306287584</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1556306287584</updated>
+      <workItem from="1557146408762" duration="3664000" />
     </task>
     <task id="LOCAL-00012" summary="Updated index.html:&#10; -- Debugging overlaping Certificate &amp; Work sections:&#10;    -- Fixing unclosed blocks through file">
       <created>1556307220828</created>
@@ -535,11 +547,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557147695255</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Updated certificates/home.html&#10;-Updated header information">
+      <created>1557149250943</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1557149250943</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60359000" />
+    <option name="totallyTimeSpent" value="62550000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -598,7 +617,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated index.html&#10;--Deleted Certificate section" />
     <MESSAGE value="Updated index.html&#10;--Edited header for &quot;Experience&quot; section" />
     <MESSAGE value="Updated index.html&#10;-Updated section: About&#10;--Edited ASR IT Intern description" />
     <MESSAGE value="Updated index.html&#10;-Updated section: Experience&#10;--Edited Header for section" />
@@ -623,7 +641,8 @@
     <MESSAGE value="Moved certificates home page to main folder and pushed blog-single to &#10;certificate subfolder" />
     <MESSAGE value="Moved certificates.html to certificate subfolder&#10;certificate.html -&gt; home.html" />
     <MESSAGE value="Updated certificates/home.html&#10;-Updated footer, mimic the one in../index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html&#10;-Updated footer, mimic the one in../index.html" />
+    <MESSAGE value="Updated certificates/home.html&#10;-Updated header information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificates/home.html&#10;-Updated header information" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -638,18 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2581">
-          <caret line="532" column="31" selection-start-line="532" selection-start-column="31" selection-end-line="532" selection-end-column="31" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,13 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3651">
-          <caret line="380" column="30" lean-forward="true" selection-start-line="380" selection-start-column="30" selection-end-line="380" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-62">
@@ -705,17 +705,39 @@
     <entry file="file://$PROJECT_DIR$/certificates/blog-single.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="380" column="30" lean-forward="true" selection-start-line="380" selection-start-column="30" selection-end-line="380" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="49" column="53" selection-start-line="49" selection-start-column="48" selection-end-line="49" selection-end-column="53" />
+          <caret line="282" column="85" lean-forward="true" selection-start-line="282" selection-start-column="20" selection-end-line="282" selection-end-column="85" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#section#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="222" column="67" lean-forward="true" selection-start-line="222" selection-start-column="45" selection-end-line="222" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/certificates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="47" column="86" selection-start-line="47" selection-start-column="86" selection-end-line="47" selection-end-column="86" />
+        <state relative-caret-position="238">
+          <caret line="104" column="80" selection-start-line="104" selection-start-column="80" selection-end-line="104" selection-end-column="80" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
