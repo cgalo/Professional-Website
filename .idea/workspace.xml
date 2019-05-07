@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="135" selection-end-column="14" />
+            <state relative-caret-position="358">
+              <caret line="223" column="36" selection-start-line="223" selection-start-column="36" selection-end-line="223" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="131" column="35" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+            <state relative-caret-position="923">
+              <caret line="135" column="29" lean-forward="true" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -114,13 +114,13 @@
         <option value="$PROJECT_DIR$/certificates/index.html" />
         <option value="$PROJECT_DIR$/certificates.html" />
         <option value="$PROJECT_DIR$/certificates/certificates.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/certificates/UdemyBashShellScripting.html" />
         <option value="$PROJECT_DIR$/certificates/home.html" />
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
         <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -224,14 +224,7 @@
       <workItem from="1556652199356" duration="5423000" />
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
-      <workItem from="1557146408762" duration="21610000" />
-    </task>
-    <task id="LOCAL-00036" summary="Updated index.html&#10;-Updated section: Experience&#10;--Edited header">
-      <created>1556820151259</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1556820151259</updated>
+      <workItem from="1557146408762" duration="21896000" />
     </task>
     <task id="LOCAL-00037" summary="Updated index.html&#10;-Updated section: Courses&#10;--Removed and center &lt;p&gt; of the tables">
       <created>1556821746402</created>
@@ -569,11 +562,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557175512426</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Updated certificate/Powershell page&#10;-Updated end of page">
+      <created>1557241133139</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1557241133139</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80496000" />
+    <option name="totallyTimeSpent" value="80782000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,7 +632,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates.html&#10;- Created new header for page" />
     <MESSAGE value="Updated certificates.html" />
     <MESSAGE value="Updated index.html&#10;--Updated Certificate button to new subpage" />
     <MESSAGE value="Moved certificates home page to main folder and pushed blog-single to &#10;certificate subfolder" />
@@ -657,7 +656,8 @@
     <MESSAGE value="Updated certificates/Powershell.html&#10;- Updated comment blocks" />
     <MESSAGE value="Updated sendEmail.php&#10;--Added owner email" />
     <MESSAGE value="Updated certificate/Powershell page&#10;-Deleted comment section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated certificate/Powershell page&#10;-Deleted comment section" />
+    <MESSAGE value="Updated certificate/Powershell page&#10;-Updated end of page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated certificate/Powershell page&#10;-Updated end of page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -769,17 +769,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="124" column="8" selection-start-line="124" selection-start-column="8" selection-end-line="135" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="131" column="35" selection-start-line="131" selection-start-column="35" selection-end-line="131" selection-end-column="35" />
+        <state relative-caret-position="923">
+          <caret line="135" column="29" lean-forward="true" selection-start-line="135" selection-start-column="29" selection-end-line="135" selection-end-column="29" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
@@ -787,6 +780,13 @@
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="223" column="36" selection-start-line="223" selection-start-column="36" selection-end-line="223" selection-end-column="36" />
         </state>
       </provider>
     </entry>
