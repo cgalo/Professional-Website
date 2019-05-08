@@ -13,23 +13,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="54" />
+            <state relative-caret-position="393">
+              <caret line="108" column="67" selection-start-line="108" selection-start-column="67" selection-end-line="108" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="536" column="17" selection-start-line="536" selection-start-column="17" selection-end-line="536" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -90,7 +81,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/certificates/index.html" />
         <option value="$PROJECT_DIR$/certificates.html" />
         <option value="$PROJECT_DIR$/certificates/certificates.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
@@ -100,6 +90,7 @@
         <option value="$PROJECT_DIR$/certificates/home.html" />
         <option value="$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/certificates/index.html" />
       </list>
     </option>
   </component>
@@ -204,28 +195,7 @@
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
       <workItem from="1557146408762" duration="25684000" />
-      <workItem from="1557322138698" duration="1067000" />
-    </task>
-    <task id="LOCAL-00042" summary="Updated certificate.html&#10;- Updated header pic">
-      <created>1557003470823</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1557003470823</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Updated index.html&#10;- Updated comment block">
-      <created>1557005264372</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1557005264372</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Updated certificates.html&#10;- Edited header&#10;-- &quot;Home&quot; button links back to index.html">
-      <created>1557012932509</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1557012932509</updated>
+      <workItem from="1557322138698" duration="1378000" />
     </task>
     <task id="LOCAL-00045" summary="Updated certificates.html&#10;- Edited header&#10;-- &quot;Home&quot; button links back to index.html">
       <created>1557013064821</created>
@@ -549,11 +519,32 @@
       <option name="project" value="LOCAL" />
       <updated>1557323197319</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html">
+      <created>1557323242499</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1557323242499</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;">
+      <created>1557323373589</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1557323373589</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link">
+      <created>1557323481776</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1557323481776</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85637000" />
+    <option name="totallyTimeSpent" value="85948000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -652,8 +643,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/home.html&#10;-Updated footer, mimic the one in../index.html" />
-    <MESSAGE value="Updated certificates/home.html&#10;-Updated header information" />
     <MESSAGE value="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons" />
     <MESSAGE value="Updated certificates/home.html&#10;-Updated first certificate/blog post (powershell)&#10;--Created second button to link to blog-single.html" />
     <MESSAGE value="Added certificates/UdemyIntroPowerShell.html" />
@@ -677,7 +666,9 @@
     <MESSAGE value="Updated ../certification/home.html&#10;-Updated description in header" />
     <MESSAGE value="Renamed ../certification/home.html --&gt; to index.html" />
     <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html" />
+    <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;" />
+    <MESSAGE value="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -785,20 +776,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="95" column="32" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="239">
+          <caret line="536" column="17" lean-forward="true" selection-start-line="536" selection-start-column="17" selection-end-line="536" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/certificates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="536" column="17" selection-start-line="536" selection-start-column="17" selection-end-line="536" selection-end-column="17" />
+        <state relative-caret-position="393">
+          <caret line="108" column="67" selection-start-line="108" selection-start-column="67" selection-end-line="108" selection-end-column="67" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
