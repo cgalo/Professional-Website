@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="345" column="106" selection-start-line="345" selection-start-column="106" selection-end-line="345" selection-end-column="106" />
+            <state relative-caret-position="179">
+              <caret line="536" column="37" selection-start-line="536" selection-start-column="37" selection-end-line="536" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -94,17 +95,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="543" />
+    <option name="y" value="-776" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,6 +126,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,14 +195,8 @@
       <workItem from="1556722452973" duration="2343000" />
       <workItem from="1556810760020" duration="4153000" />
       <workItem from="1557146408762" duration="25684000" />
-      <workItem from="1557322138698" duration="2217000" />
-    </task>
-    <task id="LOCAL-00049" summary="Updated index.html&#10;- Edited About Me&#10;-- Hire me -&gt; Certificates">
-      <created>1557094553811</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
-      <option name="project" value="LOCAL" />
-      <updated>1557094553811</updated>
+      <workItem from="1557322138698" duration="3940000" />
+      <workItem from="1557418705720" duration="639000" />
     </task>
     <task id="LOCAL-00050" summary="Updated index.html&#10;- Edited About Me&#10;-- Hire me -&gt; Certificates">
       <created>1557100714116</created>
@@ -539,11 +534,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557324332015</updated>
     </task>
-    <option name="localTasksCounter" value="98" />
+    <task id="LOCAL-00098" summary="Updated ../index.html&#10;-Edited &quot;Portfolio&quot; section&#10;-Linked github website to &lt;p&gt; description">
+      <created>1557324501241</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1557324501241</updated>
+    </task>
+    <option name="localTasksCounter" value="99" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86787000" />
+    <option name="totallyTimeSpent" value="89149000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,10 +557,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="543" y="-776" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12425645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124255955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -684,7 +686,6 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/index.html" />
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
@@ -791,8 +792,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="345" column="106" selection-start-line="345" selection-start-column="106" selection-end-line="345" selection-end-column="106" />
+        <state relative-caret-position="179">
+          <caret line="536" column="37" selection-start-line="536" selection-start-column="37" selection-end-line="536" selection-end-column="37" />
         </state>
       </provider>
     </entry>
