@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -196,14 +193,7 @@
       <workItem from="1556810760020" duration="4153000" />
       <workItem from="1557146408762" duration="25684000" />
       <workItem from="1557322138698" duration="3940000" />
-      <workItem from="1557418705720" duration="639000" />
-    </task>
-    <task id="LOCAL-00050" summary="Updated index.html&#10;- Edited About Me&#10;-- Hire me -&gt; Certificates">
-      <created>1557100714116</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1557100714118</updated>
+      <workItem from="1557418705720" duration="1413000" />
     </task>
     <task id="LOCAL-00051" summary="Updated index.html&#10;- Edited About Me &amp; Experience Sections&#10;-- Moved Experience section to its own section">
       <created>1557103723525</created>
@@ -541,11 +531,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557324501241</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Updated ../index.html&#10;-Edited &quot;stats&quot; section&#10;-Changed arrow href for certificate stats">
+      <created>1557426399348</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1557426399348</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89149000" />
+    <option name="totallyTimeSpent" value="89923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -558,7 +555,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="543" y="-776" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124255955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -644,7 +640,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/UdemyIntroPowerShell.html&#10;-Fixed error download certificate button&#10;-Linked new UdemyIntroPowerShell.html to &quot;More Info&quot; button" />
     <MESSAGE value="Updated certificates/UdemyIntroPowerShell.html&#10;-Added comment blocks" />
     <MESSAGE value="Updated main.css&#10;--Inverted colors for primary button" />
     <MESSAGE value="Updated UdemyIntroPowershell.html&#10;-- Edited header" />
@@ -669,7 +664,8 @@
     <MESSAGE value="Updated ../certificates/index.html&#10;-Added &quot;The Complete SQL Bootcamp&quot; certification section&#10;-Unlinked blog-single and Udemybash html file and relinked it to udemy" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;About&quot; section&#10;--Added SQL to skills list" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;Portfolio&quot; section&#10;-Linked github website to &lt;p&gt; description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated ../index.html&#10;-Edited &quot;Portfolio&quot; section&#10;-Linked github website to &lt;p&gt; description" />
+    <MESSAGE value="Updated ../index.html&#10;-Edited &quot;stats&quot; section&#10;-Changed arrow href for certificate stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated ../index.html&#10;-Edited &quot;stats&quot; section&#10;-Changed arrow href for certificate stats" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
