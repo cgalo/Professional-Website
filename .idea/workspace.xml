@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certificates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/certificates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="136" column="37" lean-forward="true" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
+            <state relative-caret-position="35">
+              <caret line="101" column="27" lean-forward="true" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -260,14 +259,7 @@
       <workItem from="1557418705720" duration="639000" />
       <workItem from="1557926259871" duration="150000" />
       <workItem from="1559621224772" duration="1893000" />
-      <workItem from="1560392064072" duration="576000" />
-    </task>
-    <task id="LOCAL-00055" summary="Updated certificates.html">
-      <created>1557115620033</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1557115620033</updated>
+      <workItem from="1560392064072" duration="1090000" />
     </task>
     <task id="LOCAL-00056" summary="Updated index.html&#10;--Updated Certificate button to new subpage">
       <created>1557116024470</created>
@@ -605,11 +597,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559623492589</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Updated Certificates index.html&#10;-Completed Certificated and updated as such">
+      <created>1560393609811</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1560393609812</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92173000" />
+    <option name="totallyTimeSpent" value="92687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -708,7 +707,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated UdemyIntroPowershell.html&#10;-- Edited header" />
     <MESSAGE value="Refactor -&gt; Rename Powershell Certificate" />
     <MESSAGE value="Updated certificates/home.html&#10;-Deleted fillers for home.html and added in Progress certificate&#10;--Bash Scripting and Shell Programming" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
@@ -733,7 +731,8 @@
     <MESSAGE value="Updated ../index.html&#10;-Edited Resume button" />
     <MESSAGE value="Updated ../index.html&#10;-Updated intro to page" />
     <MESSAGE value="Updated ../index.html&#10;-Fixing typos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated ../index.html&#10;-Fixing typos" />
+    <MESSAGE value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -852,8 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/certificates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="136" column="37" lean-forward="true" selection-start-line="136" selection-start-column="37" selection-end-line="136" selection-end-column="37" />
+        <state relative-caret-position="35">
+          <caret line="101" column="27" lean-forward="true" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
