@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,10 +16,45 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/certificates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="101" column="27" lean-forward="true" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="536" column="37" selection-start-line="536" selection-start-column="37" selection-end-line="536" selection-end-column="37" />
+            <state relative-caret-position="-2192">
+              <caret line="158" column="118" selection-start-line="158" selection-start-column="118" selection-end-line="158" selection-end-column="118" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/base.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/logo.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/certificates/blog-single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6435">
+              <caret line="429" column="4" selection-start-line="429" selection-start-column="4" selection-end-line="429" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -33,7 +70,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>table</find>
       <find>paragra</find>
       <find>skills</find>
       <find>drop</find>
@@ -63,6 +99,7 @@
       <find>Bash Scri</find>
       <find>ironman</find>
       <find>Acqui</find>
+      <find>homepage</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -86,16 +123,16 @@
         <option value="$PROJECT_DIR$/styles.html" />
         <option value="$PROJECT_DIR$/certificates/home.html" />
         <option value="$PROJECT_DIR$/certificates/UdemyIntroPowerShell.html" />
-        <option value="$PROJECT_DIR$/certificates/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/certificates/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="543" />
-    <option name="y" value="-776" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="748" />
+    <option name="y" value="172" />
+    <option name="width" value="1228" />
+    <option name="height" value="640" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -117,7 +154,33 @@
             <path>
               <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="Certificates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cgalo.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cgalo.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,42 +256,10 @@
       <workItem from="1556810760020" duration="4153000" />
       <workItem from="1557146408762" duration="25684000" />
       <workItem from="1557322138698" duration="3940000" />
-      <workItem from="1557418705720" duration="1413000" />
-    </task>
-    <task id="LOCAL-00051" summary="Updated index.html&#10;- Edited About Me &amp; Experience Sections&#10;-- Moved Experience section to its own section">
-      <created>1557103723525</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1557103723525</updated>
-    </task>
-    <task id="LOCAL-00052" summary="Updated index.html&#10;- Updated comment blocks for Experience section">
-      <created>1557103804908</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1557103804908</updated>
-    </task>
-    <task id="LOCAL-00053" summary="Updated certificates.html&#10;- Created new header for page">
-      <created>1557105391224</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1557105391224</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Updated certificates.html">
-      <created>1557111430752</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1557111430752</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Updated certificates.html">
-      <created>1557115620033</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1557115620033</updated>
+      <workItem from="1557418705720" duration="639000" />
+      <workItem from="1557926259871" duration="150000" />
+      <workItem from="1559621224772" duration="1893000" />
+      <workItem from="1560392064072" duration="1090000" />
     </task>
     <task id="LOCAL-00056" summary="Updated index.html&#10;--Updated Certificate button to new subpage">
       <created>1557116024470</created>
@@ -531,18 +562,53 @@
       <option name="project" value="LOCAL" />
       <updated>1557324501241</updated>
     </task>
-    <task id="LOCAL-00099" summary="Updated ../index.html&#10;-Edited &quot;stats&quot; section&#10;-Changed arrow href for certificate stats">
-      <created>1557426399348</created>
+    <task id="LOCAL-00099" summary="Updated ../index.html&#10;-Edited Resume button">
+      <created>1557639234850</created>
       <option name="number" value="00099" />
       <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1557426399348</updated>
+      <updated>1557639234851</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Updated ../index.html&#10;-Updated intro to page">
+      <created>1559621581218</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1559621581219</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Updated ../index.html&#10;-Fixing typos">
+      <created>1559621975672</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1559621975672</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Updated ../index.html&#10;-Fixing typos">
+      <created>1559622977070</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1559622977070</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Updated ../index.html&#10;-Fixing typos">
+      <created>1559623492588</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1559623492589</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Updated Certificates index.html&#10;-Completed Certificated and updated as such">
+      <created>1560393609811</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1560393609812</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89923000" />
+    <option name="totallyTimeSpent" value="92687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -554,9 +620,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="543" y="-776" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124255955" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15574348" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -640,9 +707,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/UdemyIntroPowerShell.html&#10;-Added comment blocks" />
-    <MESSAGE value="Updated main.css&#10;--Inverted colors for primary button" />
-    <MESSAGE value="Updated UdemyIntroPowershell.html&#10;-- Edited header" />
     <MESSAGE value="Refactor -&gt; Rename Powershell Certificate" />
     <MESSAGE value="Updated certificates/home.html&#10;-Deleted fillers for home.html and added in Progress certificate&#10;--Bash Scripting and Shell Programming" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
@@ -664,8 +728,11 @@
     <MESSAGE value="Updated ../certificates/index.html&#10;-Added &quot;The Complete SQL Bootcamp&quot; certification section&#10;-Unlinked blog-single and Udemybash html file and relinked it to udemy" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;About&quot; section&#10;--Added SQL to skills list" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;Portfolio&quot; section&#10;-Linked github website to &lt;p&gt; description" />
-    <MESSAGE value="Updated ../index.html&#10;-Edited &quot;stats&quot; section&#10;-Changed arrow href for certificate stats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated ../index.html&#10;-Edited &quot;stats&quot; section&#10;-Changed arrow href for certificate stats" />
+    <MESSAGE value="Updated ../index.html&#10;-Edited Resume button" />
+    <MESSAGE value="Updated ../index.html&#10;-Updated intro to page" />
+    <MESSAGE value="Updated ../index.html&#10;-Fixing typos" />
+    <MESSAGE value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/favicon.ico">
@@ -686,20 +753,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="545">
           <caret line="380" column="30" lean-forward="true" selection-start-line="380" selection-start-column="30" selection-end-line="380" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/blog-single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="429" column="4" lean-forward="true" selection-start-line="429" selection-start-column="4" selection-end-line="429" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -772,24 +825,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/certificates/index.html">
+    <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-141">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certificates/blog-single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6435">
+          <caret line="429" column="4" selection-start-line="429" selection-start-column="4" selection-end-line="429" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="536" column="37" selection-start-line="536" selection-start-column="37" selection-end-line="536" selection-end-column="37" />
+        <state relative-caret-position="-2192">
+          <caret line="158" column="118" selection-start-line="158" selection-start-column="118" selection-end-line="158" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/certificates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="101" column="27" lean-forward="true" selection-start-line="101" selection-start-column="27" selection-end-line="101" selection-end-column="27" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
