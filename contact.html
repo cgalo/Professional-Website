@@ -33,7 +33,12 @@
                         <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50"
                                   required="" aria-required="true" class="full-width"></textarea>
                     </div>
-
+                    
+                    <input type="hidden" name="_after" value="https://www.cgalo.tech">
+                    <!--Honeypot is used to stop SPAM from going through, if a bot fills this then it won't go through-->
+                    <input type="hidden" name="_honeypot" value="">
+                    <input type="hidden" name="_confirmation" value="">
+                    <input type="submit" value="Send">
                 </fieldset>
             </form>
 </body>
