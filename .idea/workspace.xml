@@ -4,7 +4,6 @@
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,14 +105,7 @@
       <workItem from="1562287364983" duration="481000" />
       <workItem from="1566919686178" duration="15000" />
       <workItem from="1566919723141" duration="512000" />
-      <workItem from="1567558271837" duration="85000" />
-    </task>
-    <task id="LOCAL-00059" summary="Updated certificates/home.html&#10;-Updated footer, mimic the one in../index.html">
-      <created>1557147695255</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1557147695255</updated>
+      <workItem from="1567558271837" duration="873000" />
     </task>
     <task id="LOCAL-00060" summary="Updated certificates/home.html&#10;-Updated header information">
       <created>1557149250943</created>
@@ -451,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562287567430</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Updated resume button to open pdf in a new tab instead of the same window">
+      <created>1567558516919</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1567558516919</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TodoView">
@@ -494,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/home.html&#10;-Deleted fillers for home.html and added in Progress certificate&#10;--Bash Scripting and Shell Programming" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Added comment blocks" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page" />
@@ -519,6 +517,7 @@
     <MESSAGE value="Updated ../index.html&#10;-Fixing typos" />
     <MESSAGE value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
     <MESSAGE value="Updates CSS file location on template HTML files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates CSS file location on template HTML files" />
+    <MESSAGE value="Updated resume button to open pdf in a new tab instead of the same window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated resume button to open pdf in a new tab instead of the same window" />
   </component>
 </project>
