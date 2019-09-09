@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="Added calculator project/button in the projects section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -105,14 +105,9 @@
       <workItem from="1562287364983" duration="481000" />
       <workItem from="1566919686178" duration="15000" />
       <workItem from="1566919723141" duration="512000" />
-      <workItem from="1567558271837" duration="873000" />
-    </task>
-    <task id="LOCAL-00060" summary="Updated certificates/home.html&#10;-Updated header information">
-      <created>1557149250943</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1557149250943</updated>
+      <workItem from="1567558271837" duration="1535000" />
+      <workItem from="1567899887793" duration="436000" />
+      <workItem from="1568047235716" duration="482000" />
     </task>
     <task id="LOCAL-00061" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons">
       <created>1557150935903</created>
@@ -450,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567558516919</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Added calculator project/button in the projects section">
+      <created>1567559278492</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1567559278492</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TodoView">
@@ -493,7 +495,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Added comment blocks" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated header" />
@@ -518,6 +519,7 @@
     <MESSAGE value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
     <MESSAGE value="Updates CSS file location on template HTML files" />
     <MESSAGE value="Updated resume button to open pdf in a new tab instead of the same window" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated resume button to open pdf in a new tab instead of the same window" />
+    <MESSAGE value="Added calculator project/button in the projects section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added calculator project/button in the projects section" />
   </component>
 </project>
