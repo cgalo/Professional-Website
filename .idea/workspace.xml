@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="Added calculator project/button in the projects section">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,14 +106,7 @@
       <workItem from="1566919723141" duration="512000" />
       <workItem from="1567558271837" duration="1535000" />
       <workItem from="1567899887793" duration="436000" />
-      <workItem from="1568047235716" duration="482000" />
-    </task>
-    <task id="LOCAL-00061" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons">
-      <created>1557150935903</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1557150935903</updated>
+      <workItem from="1568047235716" duration="521000" />
     </task>
     <task id="LOCAL-00062" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post&#10;--Creating and testing buttons">
       <created>1557151117997</created>
@@ -452,7 +444,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567559278492</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Added calculator project/button in the projects section">
+      <created>1568047745930</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1568047745931</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TodoView">
