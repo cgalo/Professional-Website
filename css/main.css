@@ -844,6 +844,7 @@ input[type="button"].btn--primary:focus {
 }
 
 .btn--medium, button.btn--medium {
+    alignment: center;
     height: 5.7rem !important;
     line-height: calc(5.7rem - .6rem) !important;
 }
@@ -2271,6 +2272,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .timeline__header h5 {
+    color: #660000;
     margin-top: 0;
 }
 
