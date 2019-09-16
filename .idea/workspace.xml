@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/certificates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,14 +110,7 @@
       <workItem from="1567899887793" duration="436000" />
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
-      <workItem from="1568651769697" duration="3371000" />
-    </task>
-    <task id="LOCAL-00063" summary="Updated certificates/home.html&#10;-Updated first certificate/blog post (powershell)&#10;--Created second button to link to blog-single.html">
-      <created>1557153811956</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1557153811956</updated>
+      <workItem from="1568651769697" duration="3766000" />
     </task>
     <task id="LOCAL-00064" summary="Added certificates/UdemyIntroPowerShell.html">
       <created>1557153967869</created>
@@ -455,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568047792055</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Updated work experience and &lt;a href&gt; tags for courses completed, sending them to syllabus provided by UToledo">
+      <created>1568655547264</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1568655547265</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TodoView">
@@ -498,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/home.html:&#10;- Added comment blocks" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated header" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated comment blocks" />
@@ -523,6 +522,7 @@
     <MESSAGE value="Updates CSS file location on template HTML files" />
     <MESSAGE value="Updated resume button to open pdf in a new tab instead of the same window" />
     <MESSAGE value="Added calculator project/button in the projects section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added calculator project/button in the projects section" />
+    <MESSAGE value="Updated work experience and &lt;a href&gt; tags for courses completed, sending them to syllabus provided by UToledo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated work experience and &lt;a href&gt; tags for courses completed, sending them to syllabus provided by UToledo" />
   </component>
 </project>
