@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/certificates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +21,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="cgalo &lt;cgalo13@gmail.com&gt;" />
         <option value="CGalo &lt;cgalo13@gmail.com&gt;" />
+        <option value="cgalo &lt;cgalo13@gmail.com&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,14 +109,7 @@
       <workItem from="1567899887793" duration="436000" />
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
-      <workItem from="1568651769697" duration="3766000" />
-    </task>
-    <task id="LOCAL-00064" summary="Added certificates/UdemyIntroPowerShell.html">
-      <created>1557153967869</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1557153967869</updated>
+      <workItem from="1568651769697" duration="3828000" />
     </task>
     <task id="LOCAL-00065" summary="Updated certificates/UdemyIntroPowerShell.html&#10;-Edited footer to mimic ../index.html">
       <created>1557154040433</created>
@@ -455,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568655547265</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Removed facebook link through website">
+      <created>1568656176943</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1568656176944</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TodoView">
@@ -498,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated header" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated comment blocks" />
     <MESSAGE value="Updated certificates/Powershell.html&#10;- Updated comment blocks" />
@@ -523,6 +521,7 @@
     <MESSAGE value="Updated resume button to open pdf in a new tab instead of the same window" />
     <MESSAGE value="Added calculator project/button in the projects section" />
     <MESSAGE value="Updated work experience and &lt;a href&gt; tags for courses completed, sending them to syllabus provided by UToledo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated work experience and &lt;a href&gt; tags for courses completed, sending them to syllabus provided by UToledo" />
+    <MESSAGE value="Removed facebook link through website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed facebook link through website" />
   </component>
 </project>
