@@ -109,14 +109,7 @@
       <workItem from="1567899887793" duration="436000" />
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
-      <workItem from="1568651769697" duration="3976000" />
-    </task>
-    <task id="LOCAL-00066" summary="Updated certificates/UdemyIntroPowerShell.html&#10;-Fixed error download certificate button&#10;-Linked new UdemyIntroPowerShell.html to &quot;More Info&quot; button">
-      <created>1557154279865</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1557154279865</updated>
+      <workItem from="1568651769697" duration="4339000" />
     </task>
     <task id="LOCAL-00067" summary="Updated certificates/UdemyIntroPowerShell.html&#10;-Added comment blocks">
       <created>1557154351568</created>
@@ -454,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568656226304</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Updated href for phone number in contact page">
+      <created>1568656403652</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1568656403652</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/home.html:&#10;- Updated header" />
     <MESSAGE value="Updated certificates/home.html:&#10;- Updated comment blocks" />
     <MESSAGE value="Updated certificates/Powershell.html&#10;- Updated comment blocks" />
     <MESSAGE value="Updated sendEmail.php&#10;--Added owner email" />
@@ -522,6 +521,7 @@
     <MESSAGE value="Added calculator project/button in the projects section" />
     <MESSAGE value="Updated work experience and &lt;a href&gt; tags for courses completed, sending them to syllabus provided by UToledo" />
     <MESSAGE value="Removed facebook link through website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed facebook link through website" />
+    <MESSAGE value="Updated href for phone number in contact page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated href for phone number in contact page" />
   </component>
 </project>
