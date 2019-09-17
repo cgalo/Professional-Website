@@ -109,14 +109,7 @@
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
       <workItem from="1568651769697" duration="4757000" />
-      <workItem from="1568731792058" duration="1384000" />
-    </task>
-    <task id="LOCAL-00074" summary="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting">
-      <created>1557161208284</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1557161208284</updated>
+      <workItem from="1568731792058" duration="1616000" />
     </task>
     <task id="LOCAL-00075" summary="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting">
       <created>1557161472972</created>
@@ -454,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568733862862</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Added CSS in skills list">
+      <created>1568735484455</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1568735484455</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TodoView">
