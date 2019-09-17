@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -110,14 +109,7 @@
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
       <workItem from="1568651769697" duration="4757000" />
-      <workItem from="1568731792058" duration="51000" />
-    </task>
-    <task id="LOCAL-00069" summary="Updated main.css&#10;--Inverted colors for primary button">
-      <created>1557156112385</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1557156112385</updated>
+      <workItem from="1568731792058" duration="234000" />
     </task>
     <task id="LOCAL-00070" summary="Updated main.css&#10;--Inverted colors for primary button">
       <created>1557156529628</created>
@@ -455,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568657164984</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Updated the github link in the projects/portfolio section to open a new tab when pressed on the link">
+      <created>1568731902925</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1568731902926</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TodoView">
@@ -498,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated sendEmail.php&#10;--Added owner email" />
     <MESSAGE value="Updated certificate/Powershell page&#10;-Deleted comment section" />
     <MESSAGE value="Updated certificate/Powershell page&#10;-Updated end of page" />
     <MESSAGE value="Updated ../index.html&#10;-Mimic &quot;Download my resume&quot; for &quot;Certificate&quot; button in about me section" />
@@ -523,6 +521,7 @@
     <MESSAGE value="Updated href for phone number in contact page" />
     <MESSAGE value="Added 'R' in list of skills" />
     <MESSAGE value="Trying to change the logo relative path through files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to change the logo relative path through files" />
+    <MESSAGE value="Updated the github link in the projects/portfolio section to open a new tab when pressed on the link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the github link in the projects/portfolio section to open a new tab when pressed on the link" />
   </component>
 </project>
