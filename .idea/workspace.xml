@@ -107,14 +107,7 @@
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
       <workItem from="1568651769697" duration="4757000" />
-      <workItem from="1568731792058" duration="1844000" />
-    </task>
-    <task id="LOCAL-00076" summary="Updated certificates/home.html:&#10;- Added comment blocks">
-      <created>1557161716977</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1557161716977</updated>
+      <workItem from="1568731792058" duration="1858000" />
     </task>
     <task id="LOCAL-00077" summary="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page">
       <created>1557161855315</created>
@@ -452,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568736984069</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Solving certificates footer logo issue not displaying">
+      <created>1568737349113</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1568737349113</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TodoView">
