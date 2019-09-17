@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/certificates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/certificates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,14 +109,8 @@
       <workItem from="1567899887793" duration="436000" />
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
-      <workItem from="1568651769697" duration="4496000" />
-    </task>
-    <task id="LOCAL-00068" summary="Updated certificates/UdemyIntroPowerShell.html&#10;-Added comment blocks">
-      <created>1557155928332</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1557155928332</updated>
+      <workItem from="1568651769697" duration="4757000" />
+      <workItem from="1568731792058" duration="51000" />
     </task>
     <task id="LOCAL-00069" summary="Updated main.css&#10;--Inverted colors for primary button">
       <created>1557156112385</created>
@@ -453,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568656770630</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Trying to change the logo relative path through files">
+      <created>1568657164984</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1568657164984</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TodoView">
@@ -496,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificates/Powershell.html&#10;- Updated comment blocks" />
     <MESSAGE value="Updated sendEmail.php&#10;--Added owner email" />
     <MESSAGE value="Updated certificate/Powershell page&#10;-Deleted comment section" />
     <MESSAGE value="Updated certificate/Powershell page&#10;-Updated end of page" />
@@ -521,6 +522,7 @@
     <MESSAGE value="Removed facebook link through website" />
     <MESSAGE value="Updated href for phone number in contact page" />
     <MESSAGE value="Added 'R' in list of skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 'R' in list of skills" />
+    <MESSAGE value="Trying to change the logo relative path through files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to change the logo relative path through files" />
   </component>
 </project>
