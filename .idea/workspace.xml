@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,14 +107,7 @@
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
       <workItem from="1568651769697" duration="4757000" />
-      <workItem from="1568731792058" duration="1616000" />
-    </task>
-    <task id="LOCAL-00075" summary="Updated certificates/home.html:&#10;- Deleted download certificate for UDemy Bash Scripting">
-      <created>1557161472972</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1557161472972</updated>
+      <workItem from="1568731792058" duration="1844000" />
     </task>
     <task id="LOCAL-00076" summary="Updated certificates/home.html:&#10;- Added comment blocks">
       <created>1557161716977</created>
@@ -454,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568735484455</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Solving certificates footer logo issue not displaying">
+      <created>1568736984069</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1568736984069</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,7 +495,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Renamed ../certification/home.html --&gt; to index.html" />
     <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html" />
     <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;" />
     <MESSAGE value="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link" />
@@ -522,6 +519,7 @@
     <MESSAGE value="Removed facebook link from main index.html" />
     <MESSAGE value="Fixed 'R', missing &lt;strong&gt; tag in the skills lists" />
     <MESSAGE value="Added CSS in skills list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added CSS in skills list" />
+    <MESSAGE value="Solving certificates footer logo issue not displaying" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solving certificates footer logo issue not displaying" />
   </component>
 </project>
