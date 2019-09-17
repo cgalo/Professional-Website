@@ -109,14 +109,7 @@
       <workItem from="1568047235716" duration="3206000" />
       <workItem from="1568651694355" duration="56000" />
       <workItem from="1568651769697" duration="4757000" />
-      <workItem from="1568731792058" duration="234000" />
-    </task>
-    <task id="LOCAL-00070" summary="Updated main.css&#10;--Inverted colors for primary button">
-      <created>1557156529628</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1557156529628</updated>
+      <workItem from="1568731792058" duration="331000" />
     </task>
     <task id="LOCAL-00071" summary="Updated UdemyIntroPowershell.html&#10;-- Edited header">
       <created>1557157119238</created>
@@ -454,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568731902926</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Updated the github link in the 'Certificates Completed' footer section to open a new tab when pressed on the link">
+      <created>1568732086341</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1568732086341</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated certificate/Powershell page&#10;-Deleted comment section" />
     <MESSAGE value="Updated certificate/Powershell page&#10;-Updated end of page" />
     <MESSAGE value="Updated ../index.html&#10;-Mimic &quot;Download my resume&quot; for &quot;Certificate&quot; button in about me section" />
     <MESSAGE value="Updated ../certification/home.html&#10;-Updated description in header" />
@@ -522,6 +521,7 @@
     <MESSAGE value="Added 'R' in list of skills" />
     <MESSAGE value="Trying to change the logo relative path through files" />
     <MESSAGE value="Updated the github link in the projects/portfolio section to open a new tab when pressed on the link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the github link in the projects/portfolio section to open a new tab when pressed on the link" />
+    <MESSAGE value="Updated the github link in the 'Certificates Completed' footer section to open a new tab when pressed on the link" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the github link in the 'Certificates Completed' footer section to open a new tab when pressed on the link" />
   </component>
 </project>
