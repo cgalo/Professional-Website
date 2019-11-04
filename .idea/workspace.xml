@@ -109,21 +109,7 @@
       <workItem from="1568651769697" duration="4757000" />
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
-      <workItem from="1572892184844" duration="2026000" />
-    </task>
-    <task id="LOCAL-00086" summary="Updated ../index.html&#10;-Mimic &quot;Download my resume&quot; for &quot;Certificate&quot; button in about me section">
-      <created>1557241325037</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1557241325037</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Updated ../index.html&#10;-Mimic &quot;Download my resume&quot; for &quot;Certificate&quot; button in about me section">
-      <created>1557241640593</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1557241640593</updated>
+      <workItem from="1572892184844" duration="2272000" />
     </task>
     <task id="LOCAL-00088" summary="Updated ../certification/home.html&#10;-Updated description in header">
       <created>1557243265505</created>
@@ -454,7 +440,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572894180300</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="- Fixed logo hred in certificate page">
+      <created>1572894387536</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894387536</updated>
+    </task>
+    <task id="LOCAL-00136" summary="- Fixed &lt;nav&gt; in certificate page">
+      <created>1572894459060</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894459060</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,8 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated ../index.html&#10;-Edited Resume button" />
-    <MESSAGE value="Updated ../index.html&#10;-Updated intro to page" />
     <MESSAGE value="Updated ../index.html&#10;-Fixing typos" />
     <MESSAGE value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
     <MESSAGE value="Updates CSS file location on template HTML files" />
@@ -522,6 +520,8 @@
     <MESSAGE value="-Edited 'hola!': deleted ASR info and added OnPointGroup" />
     <MESSAGE value="- Fixed Apex in Skills List" />
     <MESSAGE value="- Edited 'Hola!' section and added data science at the end" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Edited 'Hola!' section and added data science at the end" />
+    <MESSAGE value="- Fixed logo hred in certificate page" />
+    <MESSAGE value="- Fixed &lt;nav&gt; in certificate page" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed &lt;nav&gt; in certificate page" />
   </component>
 </project>
