@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Certificates/Powershell 5.1 UDemy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,13 +113,8 @@
       <workItem from="1568651694355" duration="56000" />
       <workItem from="1568651769697" duration="4757000" />
       <workItem from="1568731792058" duration="1858000" />
-    </task>
-    <task id="LOCAL-00077" summary="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page">
-      <created>1557161855315</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1557161855315</updated>
+      <workItem from="1568737595491" duration="164000" />
+      <workItem from="1572892184844" duration="1151000" />
     </task>
     <task id="LOCAL-00078" summary="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page">
       <created>1557161968527</created>
@@ -452,7 +452,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568737349113</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Edited index.html by adding dfq to Mathematics courses">
+      <created>1568737705723</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1568737705724</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TodoView">
@@ -495,7 +502,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html" />
     <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;" />
     <MESSAGE value="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link" />
     <MESSAGE value="Updated ../index.html&#10;-Issue in stats section&#10;--Header was not closed" />
@@ -520,6 +526,7 @@
     <MESSAGE value="Fixed 'R', missing &lt;strong&gt; tag in the skills lists" />
     <MESSAGE value="Added CSS in skills list" />
     <MESSAGE value="Solving certificates footer logo issue not displaying" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solving certificates footer logo issue not displaying" />
+    <MESSAGE value="Edited index.html by adding dfq to Mathematics courses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited index.html by adding dfq to Mathematics courses" />
   </component>
 </project>
