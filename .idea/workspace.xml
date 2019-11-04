@@ -109,35 +109,7 @@
       <workItem from="1568651769697" duration="4757000" />
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
-      <workItem from="1572892184844" duration="1708000" />
-    </task>
-    <task id="LOCAL-00082" summary="Updated sendEmail.php&#10;--Added owner email">
-      <created>1557165000785</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1557165000785</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Updated certificate/Powershell page&#10;-Deleted comment section">
-      <created>1557167313334</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1557167313334</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Updated certificate/Powershell page&#10;-Deleted comment section">
-      <created>1557175512426</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1557175512426</updated>
-    </task>
-    <task id="LOCAL-00085" summary="Updated certificate/Powershell page&#10;-Updated end of page">
-      <created>1557241133139</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1557241133139</updated>
+      <workItem from="1572892184844" duration="2026000" />
     </task>
     <task id="LOCAL-00086" summary="Updated ../index.html&#10;-Mimic &quot;Download my resume&quot; for &quot;Certificate&quot; button in about me section">
       <created>1557241325037</created>
@@ -454,7 +426,35 @@
       <option name="project" value="LOCAL" />
       <updated>1572893646040</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Fixed 'Hola!' info">
+      <created>1572893968140</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893968140</updated>
+    </task>
+    <task id="LOCAL-00132" summary="-Edited 'hola!': deleted ASR info and added OnPointGroup">
+      <created>1572894035936</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894035936</updated>
+    </task>
+    <task id="LOCAL-00133" summary="- Fixed Apex in Skills List">
+      <created>1572894085188</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894085188</updated>
+    </task>
+    <task id="LOCAL-00134" summary="- Edited 'Hola!' section and added data science at the end">
+      <created>1572894180300</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894180300</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,9 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated ../certificates/index.html&#10;-Added &quot;The Complete SQL Bootcamp&quot; certification section&#10;-Unlinked blog-single and Udemybash html file and relinked it to udemy" />
-    <MESSAGE value="Updated ../index.html&#10;-Edited &quot;About&quot; section&#10;--Added SQL to skills list" />
-    <MESSAGE value="Updated ../index.html&#10;-Edited &quot;Portfolio&quot; section&#10;-Linked github website to &lt;p&gt; description" />
     <MESSAGE value="Updated ../index.html&#10;-Edited Resume button" />
     <MESSAGE value="Updated ../index.html&#10;-Updated intro to page" />
     <MESSAGE value="Updated ../index.html&#10;-Fixing typos" />
@@ -522,6 +519,9 @@
     <MESSAGE value="- Edited 'Hola!' Intro&#10;- Added JavaScript skill" />
     <MESSAGE value="- Added Apex skill" />
     <MESSAGE value="Fixed 'Hola!' info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed 'Hola!' info" />
+    <MESSAGE value="-Edited 'hola!': deleted ASR info and added OnPointGroup" />
+    <MESSAGE value="- Fixed Apex in Skills List" />
+    <MESSAGE value="- Edited 'Hola!' section and added data science at the end" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Edited 'Hola!' section and added data science at the end" />
   </component>
 </project>
