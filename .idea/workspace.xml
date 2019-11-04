@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/vendor.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Certificates/Powershell 5.1 UDemy.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,28 +111,7 @@
       <workItem from="1568651769697" duration="4757000" />
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
-      <workItem from="1572892184844" duration="1151000" />
-    </task>
-    <task id="LOCAL-00078" summary="Updated certificates/home.html:&#10;- Attached More Info button to it's proper blog/html page">
-      <created>1557161968527</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1557161968527</updated>
-    </task>
-    <task id="LOCAL-00079" summary="Updated certificates/home.html:&#10;- Updated header">
-      <created>1557162494460</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1557162494460</updated>
-    </task>
-    <task id="LOCAL-00080" summary="Updated certificates/home.html:&#10;- Updated comment blocks">
-      <created>1557163403365</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1557163403365</updated>
+      <workItem from="1572892184844" duration="1440000" />
     </task>
     <task id="LOCAL-00081" summary="Updated certificates/Powershell.html&#10;- Updated comment blocks">
       <created>1557164861199</created>
@@ -459,7 +435,28 @@
       <option name="project" value="LOCAL" />
       <updated>1568737705724</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="- Edited 'Hola!' Intro&#10;- Added JavaScript skill">
+      <created>1572893490239</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893490239</updated>
+    </task>
+    <task id="LOCAL-00128" summary="- Edited 'Hola!' Intro&#10;- Added JavaScript skill">
+      <created>1572893526730</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893526730</updated>
+    </task>
+    <task id="LOCAL-00129" summary="- Added Apex skill">
+      <created>1572893573425</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893573425</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TodoView">
@@ -502,8 +499,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;" />
-    <MESSAGE value="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link" />
     <MESSAGE value="Updated ../index.html&#10;-Issue in stats section&#10;--Header was not closed" />
     <MESSAGE value="Updated ../certificates/index.html&#10;-Added &quot;The Complete SQL Bootcamp&quot; certification section&#10;-Unlinked blog-single and Udemybash html file and relinked it to udemy" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;About&quot; section&#10;--Added SQL to skills list" />
@@ -527,6 +522,8 @@
     <MESSAGE value="Added CSS in skills list" />
     <MESSAGE value="Solving certificates footer logo issue not displaying" />
     <MESSAGE value="Edited index.html by adding dfq to Mathematics courses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited index.html by adding dfq to Mathematics courses" />
+    <MESSAGE value="- Edited 'Hola!' Intro&#10;- Added JavaScript skill" />
+    <MESSAGE value="- Added Apex skill" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Added Apex skill" />
   </component>
 </project>
