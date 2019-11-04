@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,14 +109,7 @@
       <workItem from="1568651769697" duration="4757000" />
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
-      <workItem from="1572892184844" duration="1440000" />
-    </task>
-    <task id="LOCAL-00081" summary="Updated certificates/Powershell.html&#10;- Updated comment blocks">
-      <created>1557164861199</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1557164861199</updated>
+      <workItem from="1572892184844" duration="1708000" />
     </task>
     <task id="LOCAL-00082" summary="Updated sendEmail.php&#10;--Added owner email">
       <created>1557165000785</created>
@@ -456,7 +447,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572893573425</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Fixed 'Hola!' info">
+      <created>1572893646040</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1572893646040</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TodoView">
@@ -499,7 +497,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated ../index.html&#10;-Issue in stats section&#10;--Header was not closed" />
     <MESSAGE value="Updated ../certificates/index.html&#10;-Added &quot;The Complete SQL Bootcamp&quot; certification section&#10;-Unlinked blog-single and Udemybash html file and relinked it to udemy" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;About&quot; section&#10;--Added SQL to skills list" />
     <MESSAGE value="Updated ../index.html&#10;-Edited &quot;Portfolio&quot; section&#10;-Linked github website to &lt;p&gt; description" />
@@ -524,6 +521,7 @@
     <MESSAGE value="Edited index.html by adding dfq to Mathematics courses" />
     <MESSAGE value="- Edited 'Hola!' Intro&#10;- Added JavaScript skill" />
     <MESSAGE value="- Added Apex skill" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Added Apex skill" />
+    <MESSAGE value="Fixed 'Hola!' info" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed 'Hola!' info" />
   </component>
 </project>
