@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,14 +113,7 @@
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
       <workItem from="1572892184844" duration="2582000" />
-      <workItem from="1578970267804" duration="1438000" />
-    </task>
-    <task id="LOCAL-00092" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;">
-      <created>1557323373589</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1557323373589</updated>
+      <workItem from="1578970267804" duration="2123000" />
     </task>
     <task id="LOCAL-00093" summary="Updated ../certificates/index.html&#10;--Removed Udemypowershell.html references and pointed it to udemy official link">
       <created>1557323481776</created>
@@ -455,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578971780338</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="- Added Quicken Loans Internship&#10;- Switched the position of headers between internship position and employer">
+      <created>1578971902830</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1578971902830</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TodoView">
