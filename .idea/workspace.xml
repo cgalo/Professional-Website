@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,28 +112,8 @@
       <workItem from="1568651769697" duration="4757000" />
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
-      <workItem from="1572892184844" duration="2272000" />
-    </task>
-    <task id="LOCAL-00088" summary="Updated ../certification/home.html&#10;-Updated description in header">
-      <created>1557243265505</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1557243265505</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Renamed ../certification/home.html --&gt; to index.html">
-      <created>1557322831559</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1557322831560</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html">
-      <created>1557323197319</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1557323197319</updated>
+      <workItem from="1572892184844" duration="2582000" />
+      <workItem from="1578970267804" duration="1175000" />
     </task>
     <task id="LOCAL-00091" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html">
       <created>1557323242499</created>
@@ -454,7 +437,28 @@
       <option name="project" value="LOCAL" />
       <updated>1572894459060</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="- Fixed &lt;nav&gt; in certificate page">
+      <created>1572894567607</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894567607</updated>
+    </task>
+    <task id="LOCAL-00138" summary="- Fixed &lt;nav&gt; in certificate page">
+      <created>1572894645068</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894645068</updated>
+    </task>
+    <task id="LOCAL-00139" summary="- Fixed &lt;nav&gt; in certificate page">
+      <created>1572894702348</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1572894702348</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TodoView">
