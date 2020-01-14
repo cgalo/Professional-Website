@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="214d1ff8-44d7-4cbb-b861-cd48a92a864a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,14 +110,7 @@
       <workItem from="1568731792058" duration="1858000" />
       <workItem from="1568737595491" duration="164000" />
       <workItem from="1572892184844" duration="2582000" />
-      <workItem from="1578970267804" duration="1175000" />
-    </task>
-    <task id="LOCAL-00091" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html">
-      <created>1557323242499</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1557323242499</updated>
+      <workItem from="1578970267804" duration="1438000" />
     </task>
     <task id="LOCAL-00092" summary="Updated ../index.html&#10;-Updated stats section&#10;--Changed from Projects completed to certificates&#10;--Added href so user can be taken to /certificates/index.html&#10;--Fixed issues with &lt;h4&gt;">
       <created>1557323373589</created>
@@ -458,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572894702348</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="- Added Quicken Loans Internship&#10;- Switched the position of headers between internship position and employer">
+      <created>1578971780337</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1578971780338</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TodoView">
@@ -501,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Updated ../index.html&#10;-Fixing typos" />
     <MESSAGE value="Updated Certificates index.html&#10;-Completed Certificated and updated as such" />
     <MESSAGE value="Updates CSS file location on template HTML files" />
     <MESSAGE value="Updated resume button to open pdf in a new tab instead of the same window" />
@@ -526,6 +522,7 @@
     <MESSAGE value="- Edited 'Hola!' section and added data science at the end" />
     <MESSAGE value="- Fixed logo hred in certificate page" />
     <MESSAGE value="- Fixed &lt;nav&gt; in certificate page" />
-    <option name="LAST_COMMIT_MESSAGE" value="- Fixed &lt;nav&gt; in certificate page" />
+    <MESSAGE value="- Added Quicken Loans Internship&#10;- Switched the position of headers between internship position and employer" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Added Quicken Loans Internship&#10;- Switched the position of headers between internship position and employer" />
   </component>
 </project>
