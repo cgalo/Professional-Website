@@ -20,7 +20,6 @@
     <!-- CSS
     ================================================== -->
     <link rel="stylesheet" href="css/base.css">
-    <link rel="stylesheet" href="css/vendor.css">
     <link rel="stylesheet" href="css/main.css">
 
     <!-- script
@@ -100,12 +99,12 @@
 
     <ul class="home-social">
         <li>
-            <a href="https://www.github.com/cgalo"><i class="im im-github" aria-hidden="true"></i>
+            <a href="https://www.github.com/cgalo" target="_blank"><i class="im im-github" aria-hidden="true"></i>
                 <span>GitHub</span></a>
 
         </li>
         <li>
-            <a href="https://www.linkedin.com/in/carlos-galo/"><i class="im im-linkedin" aria-hidden="true"></i>
+            <a href="https://www.linkedin.com/in/carlos-galo/" target="_blank"><i class="im im-linkedin" aria-hidden="true"></i>
                 <span>LinkedIn</span></a>
         </li>
 
@@ -153,29 +152,34 @@
                 Google Cloud, where I deployed a LAMP (Linux, Apache, mySQL, PHP) stack to host the WordPress website.
                 You can check the website <a href="http://pseutoledo.org" target="_blank">here</a>.
             </p>
+            
             <p>
-                Then there is ACM, Association for Computer Machinery, where I was introduced and learned numerous
-                technical skills. Some of these skills include web development, working as a coding team through git
-                and agile.
-            </p>
-            <p>
-                I was an intern at OnPoint Group as a Salesforce Developer intern, located in Perrysburg OH.
+                I was an intern at <a href="https://onpointgroup.com/" target="_blank">OnPoint Group</a> a Salesforce Developer intern, located in Perrysburg OH.
                 From July 2019 to December 2019 I've worked on developing custom applications on their Salesforce
                 platform, which uses its proprietary object-oriented language called
                 <a href="https://sforce.co/32ff2pN" target="_blank">Apex</a>. I also create lightning web-components
-                using HTML, CSS, JavaScript and Apex.
+                using HTML, CSS, JavaScript and Apex. This internship gave me the opportunity to experience development first hand,
+                while learning JavaScript and Apex through my projects.
             </p>
             <p>
-                Currently, starting in January 2020, I am an intern at Quicken Loans, located in Detroit MI. I am an Intern
-                with the Information Security team. For now, I've been learning their various tools and systems through the 
-                company and assisting on their SOC (Service Organization Control) type 2 compliance audit, and optimizing their 
-                processes through Powershell and Python using REST APIs. I am taking inside courses on AWS, FTP, Docker containers, 
-                and Git Enterprise, as most of our programs are hosted through these.
+                I joined <a href="https://www.quickenloans.com/" target="_blank">Quicken Loans</a> and its family of companies in January 2020, as an intern in their Information Security family in Detroit MI.
+                Here I had the pleasure to work in various inside teams such as Cloud Security, Compliance, and Software and Asset Licensing (SLAM) teams. 
+                I was able to work on the security compliance of QL's <a href="https://aws.amazon.com/what-is-aws/" target="_blank">AWS</a> resources,
+                holding accountable our teams for their tag compliance in order to reduce cost and up time of EC2 and S3 resources. 
+                With the SLAM team I automated their Asset Management Application by pushing PowerShell scripts to our its server. These scripts automated the
+                refreshing our users data, by collecting accurate information from Active Directory, and uploading back to the server. Also, sending weekly reports of 
+                unused licenses that could be recycle, given to a different user, or sent to review to stop paying for those licenses.
+                By the end of my internship I was working with our Compliance team for the <a href="https://bit.ly/3hOG68a" target="_blank"> SOC (Service Organization Control) Type 2 audit</a>.
+                I assisted in the reviewing of controls and deliverables requested by our external auditors, as well as handling the evidence, and findings, of self-service deliverables.
+            </p>
+            <p>
+                Recently I joined another of Quicken Loans' companies, <a href="https://www.nexsystech.com/" target="_blank">Nexsys Technologies</a>, as a Software Engineer Intern.
+                I will be working in their <a href="https://www.nexsystech.com/clear-sign/" target="_blank">ClearSign application</a>, on both their front-end, utilizing AngularJS, and their back-end,
+                consisting of ASP.Net and C#.  
             </p>
             <p>
                 I am currently on the hunt for new opportunities to keep learning and expanding my knowledge,
-                with the goal to become a software engineer, cybersecurity, or data scientist professional after
-                graduation.
+                with the goal to become a software engineer, information security engineer, or data scientist professional after graduation.
             </p>
         </div>
 
@@ -253,9 +257,9 @@
 </section> <!--End of About Me section-->
 
 <!-- Experience Section-->
-<section id = "experience" class="s-works">
+<section id = "experience" class="s-works target-section">
     <section class="row about-content about-content--timeline">
-    <!--Start of header for experiences/work-->
+        <!--Start of header for experiences/work-->
         <div class="row narrow section-intro has-bottom-sep">
             <div class="col-full text-center">
                 <h3>Experience</h3>
@@ -269,43 +273,78 @@
         <div class="col-six tab-full left">
             <div class="timeline">
 
+                <!-- Nexsys Internship-->
+                <div class="timeline__block">
+                    <div class="timeline__bullet"></div>
+                    <div class="timeline__header">
+                        <p class="timeline__timeframe">June 2020 - Present</p>
+                        <h3> Software Engineer Intern </h3>
+                        <h5><a href="https://www.nexsystech.com/" target="_blank">Nexsys Technologies</a></h5>
+                    </div>
+                    <div class="timeline__desc">
+                        <ul>
+
+                            <li>
+                                Design, develop and modify software through ASP.NET and AngularJS utilizing C# and JavaScript
+                            </li>
+
+                            <li>
+                                Modify existing code to fix errors, improve overall quality and functionality
+                            </li>
+
+                            <li>
+                                Analyze user needs to determine how software should be built or if existing software should be modified
+                            </li>
+
+                            <li>
+                                Process and understand capabilities and limitations of data outputs from softwares
+                            </li>
+
+                            <li>
+                                Practice Agile and Scrum in 2 week sprints with software engineer team
+                            </li>
+                        </ul>
+                    </div>
+                </div> <!-- End of Quicken Loans Internship -->
+
                 <!--Quicken Loans Internship-->
                 <div class="timeline__block">
                     <div class="timeline__bullet"></div>
                     <div class="timeline__header">
-                        <p class="timeline__timeframe">January 2020 - Present</p>
-                        <h3>Compliance Management Intern</h3>
+                        <p class="timeline__timeframe">January 2020 - June 2020</p>
+                        <h3>Information Security Intern </h3>
                         <h5><a href="https://www.quickenloans.com" target="_blank">Quicken Loans</a></h5>
                     </div>
                     <div class="timeline__desc">
                         <ul>
 
                             <li>
-                                Deliver program reporting utilizing tools to track planning, scheduling,
-                                vulnerabilities and overall status of compliance efforts
+                                Automate security controls to assist in closing out loans safetly and securely with the Information Security team.
                             </li>
 
                             <li>
-                                Assist the Information Security team to enhance control management system and reporting
+                                Assist the Information Security team to enhance control management system and reporting.
                             </li>
 
                             <li>
-                                Develop performance dashboard and metrics for regular reporting to all levels of the
-                                organization on program status and performance
+                                Collaborate with the Cloud Security team to assist, regulate, and set guideliness for cloud resources through all QL’s companies.
+                            </li>
+                            <li>
+                                Create reporting system to reduce licensing cost, and recyle bought licenses, through all of Quicken Loans family of companies.
+                                This was done through Powershell scripts and leveraging the company's Asset Management Application data, utilizing its REST API.
+                            </li>
+                            <li>
+                                Develop PowerShell and Python scripts to perform API calls, transform data, and to optimize processes and systems.
                             </li>
 
                             <li>
-                                Drive the execution of program plans across cross-functional teams, monitor risks, take
-                                appropriate action to address challenges and provide regular updates to key stakeholders
+                                Assist in <a href="https://bit.ly/3hOG68a" target="_blank"> SOC Type 2 </a> audit by connecting controls to deliverables, collect evidence, and document findings through <a href="https://www.quickbase.com/" target="_blank">QuickBase</a>
                             </li>
 
                             <li>
-                                Work with subject matter experts and utilize internal and external data/metrics to
-                                analyze results for compliance or unfavorable trends
+                                Cooperate with Security Awareness team to create Power BI dashboards to displaying results of phising tests and findings
                             </li>
-
                         </ul>
-
                     </div>
                 </div> <!-- End of Quicken Loans Internship -->
 
@@ -319,35 +358,37 @@
                     </div>
                     <div class="timeline__desc">
                         <ul>
+                            <li>
+                                Collaborate to redesign and adapt code base for integration of a newly acquired company and system.
+                                Added feature to company's Salesforce assets that would allow users to change the type of asset, allowing users the flexibility to get different reports.
+
+                            </li>
 
                             <li>
-                                Develop custom applications on Salesforce platform, through
-                                <a href="https://sforce.co/32ff2pN" target="_blank">Apex</a> object-oriented
-                                language, to satisfy the companies needs
+                                Develop web component that allowed authorized users to mass input asset information for monthly reports.
+                                Utilized <a href="https://sforce.co/2NkdsOw" target="_blank">Salesforce's Visualforce</a> to create custom user interface, consisting of HTML and JavaScript.
+                                The JavaScript in the interface would send the data to the <a href="https://sforce.co/32ff2pN" target="_blank">Apex</a> controller, which would handle the logic and updating the database.
                             </li>
+
                             <li>
-                                Create and design web-base components on using JavaScript, HTML, CSS, and Apex
+                                Perform unit testing on code to move user stories from sandbox to user testing by adapting pre-defined testing classes and adjusting for new base cases.
                             </li>
 
                             <li>
                                 Maintain user roles, ensuring there are no security breaches that could place a risk on
-                                the company’s data
+                                the company’s data.
                             </li>
 
                             <li>
                                 Lead the testing and implementation of software development efforts, including coding,
                                 configuration, maintenance, installation, testing, and debugging, as well as managing
-                                timelines and producing technical documentation
+                                timelines and producing technical documentation.
                             </li>
 
                             <li>
-                                Collaborate with various internal departments, including marketing, product development
-                                and operations, to ensure Salesforce environment supports internal needs relating to
-                                functionality and performance
+                                Participate in software development cycle, as well as managing timelines and producing technical documentation/
                             </li>
-
                         </ul>
-
                     </div>
                 </div> <!-- End of OnPoint Group Internship -->
 
@@ -364,31 +405,40 @@
                         <h3>Information Technology Intern</h3>
                         <h5><a href="https://www.asraymond.com" target="_blank">Associated Spring Raymond</a></h5>
                     </div>
+
                     <div class="timeline__desc">
                         <ul>
 
                             <li>
-                                Led Windows Migration project for the company by developing reimaging system, database,
-                                and Power BI reports
+                                Led Windows Migration project for the company by developing and integrating a reimaging system
                             </li>
 
                             <li>
-                                Conduct security checks through McAfee software for malware and trojan detection
+                                Create and maintain PostgreSQL database with users, assets, and printers data. 
+                                Utilized <a href="https://www.pgadmin.org/" target="_blank">pgAdmin</a> to administrate and develop the PostgreSQL database.
                             </li>
 
                             <li>
-                                Design, test, and deploy scripts to automize database queries and Windows
-                                deployment
+                                Develop and utilized Python scripts to automate SQL queries, and PowerShell scripts to automate user and windows migration.
                             </li>
 
                             <li>
-                                Manage and deployed CISCO Switches and Access Points
+                                Implement PowerBI dashboard and reports by collecting live data from PostgreSQL database.
+                                Dashboard brokedown the status of Windows OS migration project for the company, reports would break down the data for each department, and country.
+                            </li>
+
+                            <li>
+                                Conduct and assist in security checks through McAfee software for malware and trojan detection.
+                            </li>
+
+                            <li>
+                                Manage and deployed CISCO Switches and Access Points through office
                             </li>
 
                         </ul>
-
                     </div>
                 </div> <!-- End of ASR IT Internship -->
+
                 <!--UTMC PC Lan Support-->
                 <div class="timeline__block">
                     <div class="timeline__bullet"></div>
@@ -456,13 +506,11 @@
                 </div> <!-- End of Southern Glove Inc internship -->
             </div> <!-- end timeline -->
         </div> <!-- end right -->
-        </div> <!-- end about-content timeline -->
     </section> <!--End of Experience Section-->
 </section>
 
-
 <!--Projects -->
-<section id="works" class="s-about target-section">
+<section id="works" class="s-blog target-section">
 
     <div class="row narrow section-intro has-bottom-sep">
         <div class="col-full">
@@ -471,15 +519,58 @@
 
             <p class="lead">Currently working to bring my github projects to this section.</p>
             <p>Meanwhile you can go here:
-                <a href="https://www.github.com/cgalo", target="_blank">www.github.com/cgalo</a>
+                <a href="https://www.github.com/cgalo", target="_blank">Github.com/cgalo</a>
             </p>
-
-            <a class="btn btn--primary" href="projects/calculator/index.html" target="_blank">
-                Calculator Project
-            </a>
-
         </div>
     </div>
+    <section class="blog-content-wrap">
+
+        <div class="row blog-content">
+            <div class="col-full">
+
+                <div class="blog-list block-1-2 block-tab-full">
+
+                    <!-- SPAN -->
+                    <article class="col-block">
+                        <h2 class="h01"><a href="github.com/cgalo/SPAN" target="_blank">
+                            SPAN
+                        </a></h2>
+                        <p>
+                            <!-- Description of the project -->
+                            <p>
+                                SPAN is a <a href="https://bit.ly/2BqrLhC" target="_blank">Command Line Application </a> that utilizes
+                                two <a href="https://en.wikipedia.org/wiki/Minimum_spanning_tree" target="_blank">Minimimal Spanning Tree algorithms</a>, Kruskal and Prim's algorithms to be specific. 
+                                The program requires the location of the text file, which should contain the data of a graph, and then returns the results of each algorithm. For more information you can
+                                check the source code of the project.
+                            </p>
+
+                            <!-- Media for the project-->
+                            <img src="images/projects/SPAN.gif" alt="SPAN GIF" height="100%" width="100%" style="position: relative;"/>
+
+                            <!-- Start of tags-->
+                            &nbsp;
+                            <div class="blog-cat" >
+                                <!--Tags for the project-->
+                                <code>C++</code>
+                                <code>Visual Studio</code>
+                                <code>CLI App</code>
+                            </div>
+                            &nbsp;
+                            <!-- End of tags-->
+
+                            <!--Add Buttons for source code and if it has a live website-->    
+                            <a class="btn btn--primary full-width" href="https://github.com/cgalo/SPAN" target="_blank">
+                                Source Code
+                            </a>
+                        </p>
+                    </article>
+                    <!-- End of SPAN-->
+
+                    
+                </div> <!-- end project list -->
+            </div> <!-- end col-full -->
+        </div> <!-- end blog-content -->
+    </section> <!-- end blog-content-wrap -->
 </section> <!-- end works -->
 
 <!-- Courses Section -->
@@ -669,8 +760,9 @@
                     </tbody>
                 </table>
                 <!--End of ECON coursework table-->
-            </div> <!--End of 2nd row-->
-
+            </div> <!-- End of table-responsive div-->
+        </div> <!--End of 2nd row-->
+    </div>
 </section>
 
 <!-- s-stats
@@ -680,7 +772,7 @@
 
         <div class="col-block stats__col ">
             <div class="stats__count">
-                2020
+                2021
             </div>
             <h4>Expected Graduation</h4>
         </div>
@@ -692,7 +784,7 @@
         </div>
         <div class="col-block stats__col stats__col--highlight">
             <div class="stats__upsign">
-                <a href="certificates"><i class="im im-arrow-up" aria-hidden="true"></i></a>
+                <a href="certificates/index.html"><i class="im im-arrow-up" aria-hidden="true"></i></a>
             </div>
             <div class="stats__count">
                 2
@@ -701,7 +793,7 @@
         </div>
         <div class="col-block stats__col">
             <div class="stats__count">
-                3
+                4
             </div>
             <h4>Internships</h4>
         </div>
@@ -726,50 +818,13 @@
 
     <div class="row contact__main">
         <div class="col-eight tab-full contact__form">
-            <form name="contactForm" id="contactForm" method="post" action="">
-                <fieldset>
-
-                    <div class="form-field">
-                        <input name="contactName" type="text" id="contactName" placeholder="Name" value=""
-                               minlength="2" required="" aria-required="true" class="full-width">
-                    </div>
-                    <div class="form-field">
-                        <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value=""
-                               required="" aria-required="true" class="full-width">
-                    </div>
-                    <div class="form-field">
-                        <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value=""
-                               class="full-width">
-                    </div>
-                    <div class="form-field">
-                        <textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50"
-                                  required="" aria-required="true" class="full-width"></textarea>
-                    </div>
-                    <div class="form-field">
-                        <button class="full-width btn--primary">Submit</button>
-                        <div class="submit-loader">
-                            <div class="text-loader">Sending...</div>
-                            <div class="s-loader">
-                                <div class="bounce1"></div>
-                                <div class="bounce2"></div>
-                                <div class="bounce3"></div>
-                            </div>
-                        </div>
-                    </div>
-
-                </fieldset>
-            </form>
-
-            <!-- contact-warning -->
-            <div class="message-warning">
-                Something went wrong. Please try again.
-            </div>
-
-            <!-- contact-success -->
-            <div class="message-success">
-                Your message was sent, thank you!<br>
-            </div>
-
+            <form action="https://formspree.io/xqkylwky" method="POST">
+                    <input name="name" type="text" id="contactName" placeholder="Name" required class="full-width">                    
+                    <input name="_replyto" type="email" id="contactEmail" placeholder="Email" required class="full-width">
+                    <input name="subject" type="text" id="contactSubject" placeholder="Subject" class="full-width">
+                    <textarea name="message" id="contactMessage" placeholder="Write your message here..." class="full-width" required></textarea>
+                    <input type="submit" value="Send" class="full-width btn--primary">
+              </form>
         </div>
         <div class="col-four tab-full contact__infos">
             <h4 class="h06">Phone</h4>
@@ -832,47 +887,6 @@
     </div> <!-- end footer-bottom -->
 
 </footer> <!-- end footer -->
-
-
-<!-- Photoswipe background -->
-<div aria-hidden="true" class="pswp" role="dialog" tabindex="-1">
-
-    <div class="pswp__bg"></div>
-    <div class="pswp__scroll-wrap">
-
-        <div class="pswp__container">
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-            <div class="pswp__item"></div>
-        </div>
-
-        <div class="pswp__ui pswp__ui--hidden">
-            <div class="pswp__top-bar">
-                <div class="pswp__counter"></div>
-                <button class="pswp__button pswp__button--close"    title="Close (Esc)"></button>
-                <button class="pswp__button pswp__button--share"    title= "Share"></button>
-                <button class="pswp__button pswp__button--fs"       title ="Toggle fullscreen"></button>
-                <button class="pswp__button pswp__button--zoom"     title = "Zoom in/out"></button>
-                <div class="pswp__preloader">
-                    <div class="pswp__preloader__icn">
-                        <div class="pswp__preloader__cut">
-                            <div class="pswp__preloader__donut"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
-                <div class="pswp__share-tooltip"></div>
-            </div><button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button> <button class="pswp__button pswp__button--arrow--right" title=
-                "Next (arrow right)"></button>
-            <div class="pswp__caption">
-                <div class="pswp__caption__center"></div>
-            </div>
-        </div>
-
-    </div>
-
-</div>
 
 <div id="preloader">
     <div id="loader"></div>
